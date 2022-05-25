@@ -158,6 +158,17 @@
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
     },
+    {
+      "chainId": 10,
+      "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+      "name": "Perpetual",
+      "symbol": "PERP",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/logos/PERP.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
     {"name":"miMATIC","symbol":"miMATIC","decimals":18,"tags":[""],"logoURI":"ipfs://QmTGmjQ7bgCxyyCqfeZPGCDE3LJogAFXxAzkdQoqZHwCdR","address":"0xa3fa99a148fa48d14ed51d610c367c61876997f1","chainId":137},
     {"name":"Jarvis Synthetic Euro","symbol":"jEUR","decimals":18,"tags":[""],"logoURI":"ipfs://QmfXBoMTR8Ju6LWbjZxJdn1Dcrr81C39sMCkoofWZcsmjx","address":"0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c","chainId":137},
     {"name":"Jarvis Synthetic British Pound","symbol":"jGBP","decimals":18,"tags":[""],"logoURI":"ipfs://QmcZN5QcN8zSSJAUFvuNKZmk1geHtXFQHdnGxx5DYjwa4N","address":"0x767058f11800fba6a682e73a6e79ec5eb74fac8c","chainId":137},
