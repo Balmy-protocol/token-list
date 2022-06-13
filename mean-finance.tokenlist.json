@@ -178,6 +178,14 @@
       "symbol": "GRT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566"
+    },
+    {
+      "chainId": 10,
+      "address": "0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97",
+      "name": "StargateToken",
+      "symbol": "STG",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSVugvUzANUtjMyDC6F25gbvmfuRVwUJHnybAcFKTK26V"
     }
   ],
   "timestamp":"2021-12-22T20:45:55Z",
