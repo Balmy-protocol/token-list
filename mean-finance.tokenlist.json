@@ -186,8 +186,24 @@
       "symbol": "STG",
       "decimals": 18,
       "logoURI": "ipfs://QmSVugvUzANUtjMyDC6F25gbvmfuRVwUJHnybAcFKTK26V"
+    },
+    {
+      "chainId": 137,
+      "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "ipfs://QmWntrMHJGoXu7H1diJC4ZJFckpwEwxgcXxP5SKKk6eRf5"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+      "name": "Avalanche Token",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUewyf3fiNuHMx2f4mSyvYnKPMmTigk1bZTGA3JntH8xe"
     }
   ],
-  "timestamp":"2021-12-22T20:45:55Z",
-  "version":{"major":0,"minor":1,"patch":0}
+  "timestamp":"2022-08-30T17:19:47+00:00",
+  "version":{"major":0,"minor":1,"patch":1}
 }
