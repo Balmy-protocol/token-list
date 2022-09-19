@@ -202,6 +202,14 @@
       "symbol": "AVAX",
       "decimals": 18,
       "logoURI": "ipfs://QmUewyf3fiNuHMx2f4mSyvYnKPMmTigk1bZTGA3JntH8xe"
+    },
+    {
+      "chainId": 137,
+      "address": "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4",
+      "name": "Staked Matic",
+      "symbol": "stMATIC",
+      "decimals": 18,
+      "logoURI": "ipfs://QmYYbomikkMrCNxMYTWwa4f1ZmFxBstqNXvmWeMJ4VW8QK"
     }
   ],
   "timestamp":"2022-08-30T17:19:47+00:00",
