@@ -126,7 +126,7 @@
       "name": "Synthetix USD",
       "symbol": "sUSD",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/logos/sUSD.svg"
+      "logoURI": "https://ethereum-optimism.github.io/data/sUSD/logo.svg"
     },
     {
       "chainId": 10,
@@ -134,7 +134,7 @@
       "name": "Rai Reflex Index",
       "symbol": "RAI",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/logos/RAI.svg",
+      "logoURI": "https://ethereum-optimism.github.io/data/RAI/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -145,7 +145,7 @@
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/logos/rETH.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -156,7 +156,7 @@
       "name": "Perpetual",
       "symbol": "PERP",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/logos/PERP.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/PERP/logo.png",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -196,6 +196,14 @@
       "logoURI": "ipfs://QmWntrMHJGoXu7H1diJC4ZJFckpwEwxgcXxP5SKKk6eRf5"
     },
     {
+      "chainId": 10,
+      "address": "0x2e3d870790dc77a83dd1d18184acc7439a53f475",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "ipfs://QmWntrMHJGoXu7H1diJC4ZJFckpwEwxgcXxP5SKKk6eRf5"
+    },
+    {
       "chainId": 137,
       "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
       "name": "Avalanche Token",
@@ -212,6 +220,6 @@
       "logoURI": "ipfs://QmYYbomikkMrCNxMYTWwa4f1ZmFxBstqNXvmWeMJ4VW8QK"
     }
   ],
-  "timestamp":"2022-09-19T23:27:39+00:00",
-  "version":{"major":0,"minor":1,"patch":2}
+  "timestamp":"2022-10-03T19:26:46+00:00",
+  "version":{"major":0,"minor":1,"patch":3}
 }
