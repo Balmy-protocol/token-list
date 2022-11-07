@@ -242,8 +242,24 @@
       "symbol": "DPX",
       "decimals": 18,
       "logoURI": "ipfs://QmRjxGaJjkFqDXzTmBaP9LLp6nNTLpV5QbhRbYp4gumoBq"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x1622bf67e6e5747b81866fe0b85178a93c7f86e3",
+      "name": "Umami",
+      "symbol": "UMAMI",
+      "decimals": 9,
+      "logoURI": "ipfs://Qma5gajMmRFkZCbAFW6GtmB6MBpGW3JwDUKXwzWDwyxJJE"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d",
+      "name": "Buffer Token",
+      "symbol": "BFR",
+      "decimals": 18,
+      "logoURI": "ipfs://QmboWL5YvU9Yw1sFLiqLChSdJpJTeQm5SFkH4XA1YTxbwS"
     }
   ],
-  "timestamp":"2022-10-28T14:06:44+00:00",
+  "timestamp":"2022-11-07T15:54:56+00:00",
   "version":{"major":0,"minor":2,"patch":0}
 }
