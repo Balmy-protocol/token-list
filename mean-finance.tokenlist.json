@@ -261,8 +261,24 @@
       "symbol": "BFR",
       "decimals": 18,
       "logoURI": "ipfs://QmboWL5YvU9Yw1sFLiqLChSdJpJTeQm5SFkH4XA1YTxbwS"
+    },
+    {
+      "chainId": 137,
+      "address": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
+      "name": "agEUR",
+      "symbol": "agEUR",
+      "decimals": 18,
+      "logoURI": "ipfs://QmRo5PdX37KnBoUENmcRy2MDHmHXKA4SkExEj5giiiv2n2"
+    },
+    {
+      "chainId": 137,
+      "address": "0xe5417af564e4bfda1c483642db72007871397896",
+      "name": "Gains Network",
+      "symbol": "GNS",
+      "decimals": 18,
+      "logoURI": "ipfs://Qmdvch2PUDoMJm7Mt8Yv7Bd2hgpyeBeQKnqyqJdyvWwn77"
     }
   ],
-  "timestamp":"2022-11-08T13:37:37+00:00",
-  "version":{"major":0,"minor":2,"patch":0}
+  "timestamp":"2022-11-14T20:18:39+00:00",
+  "version":{"major":0,"minor":3,"patch":0}
 }
