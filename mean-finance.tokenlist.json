@@ -277,8 +277,24 @@
       "symbol": "GNS",
       "decimals": 18,
       "logoURI": "ipfs://Qmdvch2PUDoMJm7Mt8Yv7Bd2hgpyeBeQKnqyqJdyvWwn77"
+    },
+    {
+      "chainId": 10,
+      "address": "0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c",
+      "name": "UniDex",
+      "symbol": "UNIDX",
+      "decimals": 18,
+      "logoURI": "ipfs://QmRB8JLLfyzL8tUJmswctWAU8kmoQ5ayW2kC4B3xEUNNuS"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x031d35296154279dc1984dcd93e392b1f946737b",
+      "name": "Cap",
+      "symbol": "CAP",
+      "decimals": 18,
+      "logoURI": "ipfs://QmeJeHr3vcU3LDohSAkrb7UTAekuRZjREU7zeTue6jES4g"
     }
   ],
-  "timestamp":"2022-11-14T20:18:39+00:00",
-  "version":{"major":0,"minor":3,"patch":0}
+  "timestamp":"2022-11-18T17:13:37+00:00",
+  "version":{"major":0,"minor":4,"patch":0}
 }
