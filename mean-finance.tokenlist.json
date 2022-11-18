@@ -280,7 +280,7 @@
     },
     {
       "chainId": 10,
-      "address": "0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c",
+      "address": "0x5d47baba0d66083c52009271faf3f50dcc01023c",
       "name": "UniDex",
       "symbol": "UNIDX",
       "decimals": 18,
@@ -295,6 +295,6 @@
       "logoURI": "ipfs://QmeJeHr3vcU3LDohSAkrb7UTAekuRZjREU7zeTue6jES4g"
     }
   ],
-  "timestamp":"2022-11-18T17:13:37+00:00",
-  "version":{"major":0,"minor":4,"patch":0}
+  "timestamp":"2022-11-18T17:20:37+00:00",
+  "version":{"major":0,"minor":4,"patch":1}
 }
