@@ -293,6 +293,14 @@
       "symbol": "CAP",
       "decimals": 18,
       "logoURI": "ipfs://QmeJeHr3vcU3LDohSAkrb7UTAekuRZjREU7zeTue6jES4g"
+    },
+    {
+      "chainId": 10,
+      "address": "0x920cf626a271321c151d027030d5d08af699456b",
+      "name": "Kwenta",
+      "symbol": "KWENTA",
+      "decimals": 18,
+      "logoURI": "ipfs://QmdCa2fgSu2464aPhcGCJTbTNGf4aZWAqN2mcQqhMvuFev"
     }
   ],
   "timestamp":"2022-11-18T17:20:37+00:00",
