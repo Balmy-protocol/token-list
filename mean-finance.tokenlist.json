@@ -301,6 +301,14 @@
       "symbol": "KWENTA",
       "decimals": 18,
       "logoURI": "ipfs://QmdCa2fgSu2464aPhcGCJTbTNGf4aZWAqN2mcQqhMvuFev"
+    },
+    {
+      "chainId": 137,
+      "address": "0xbd1fe73e1f12bd2bc237de9b626f056f21f86427",
+      "name": "Jarvis Synthetic Mexican Peso",
+      "symbol": "jMXN",
+      "decimals": 18,
+      "logoURI": "ipfs://QmPiMagtYdoCUQW72cTQfssnAWkbR85ZdVchQxrhiX5Hnn"
     }
   ],
   "timestamp":"2022-11-18T17:20:37+00:00",
