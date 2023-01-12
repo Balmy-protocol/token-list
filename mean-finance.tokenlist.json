@@ -309,6 +309,22 @@
       "symbol": "jMXN",
       "decimals": 18,
       "logoURI": "ipfs://QmPiMagtYdoCUQW72cTQfssnAWkbR85ZdVchQxrhiX5Hnn"
+    },
+    {
+      "chainId": 10,
+      "address": "0xf98dcd95217e15e05d8638da4c91125e59590b07",
+      "name": "Kromatika",
+      "symbol": "KROM",
+      "decimals": 18,
+      "logoURI": "ipfs://QmW5KZAedBuo5riGZjFu7tSWrumnXJBReb1GNqSWdF5sjn"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x55ff62567f09906a85183b866df84bf599a4bf70",
+      "name": "Kromatika",
+      "symbol": "KROM",
+      "decimals": 18,
+      "logoURI": "ipfs://QmW5KZAedBuo5riGZjFu7tSWrumnXJBReb1GNqSWdF5sjn"
     }
   ],
   "timestamp":"2022-11-18T17:20:37+00:00",
