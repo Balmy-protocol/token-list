@@ -325,6 +325,14 @@
       "symbol": "KROM",
       "decimals": 18,
       "logoURI": "ipfs://QmW5KZAedBuo5riGZjFu7tSWrumnXJBReb1GNqSWdF5sjn"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+      "name": "Gains Network",
+      "symbol": "GNS",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/gainsnetwork_32.png"
     }
   ],
   "timestamp":"2022-11-18T17:20:37+00:00",
