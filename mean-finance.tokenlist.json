@@ -333,6 +333,22 @@
       "symbol": "GNS",
       "decimals": 18,
       "logoURI": "ipfs://Qmdvch2PUDoMJm7Mt8Yv7Bd2hgpyeBeQKnqyqJdyvWwn77"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x431402e8b9de9aa016c743880e04e517074d8cec",
+      "name": "Hegic",
+      "symbol": "HEGIC",
+      "decimals": 18,
+      "logoURI": "ipfs://QmfGfXZY4iSQn1nkBkrC45ZBjonhMQFBC1ktisp88d2ywx"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x51fc0f6660482ea73330e414efd7808811a57fa2",
+      "name": "Premia",
+      "symbol": "PREMIA",
+      "decimals": 18,
+      "logoURI": "ipfs://QmZKRiRGHm8Lw27q7WQgxqXsbzW4CaFbjG7A45cUiDaiQS"
     }
   ],
   "timestamp":"2022-11-18T17:20:37+00:00",
