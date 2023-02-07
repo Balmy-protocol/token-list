@@ -357,6 +357,22 @@
       "symbol": "jBRL",
       "decimals": 18,
       "logoURI": "ipfs://QmPSrb8td1MzzcMX7zdAq6WWzjJnukPoc9mWh2JbJA5LKR"
+    },
+    {
+      "chainId": 137,
+      "address": "0xf2f77FE7b8e66571E0fca7104c4d670BF1C8d722",
+      "name": "Jarvis Synthetic Brazilian Real",
+      "symbol": "jBRL",
+      "decimals": 18,
+      "logoURI": "ipfs://QmPSrb8td1MzzcMX7zdAq6WWzjJnukPoc9mWh2JbJA5LKR"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2",
+      "name": "StellaSwap",
+      "symbol": "STELLA",
+      "decimals": 18,
+      "logoURI": "ipfs://QmZC7Kxmq2MLXLa6dNSeupjya4FU8UzE7KSc1DrYzp2Fzp"
     }
   ],
   "timestamp":"2022-11-18T17:20:37+00:00",
