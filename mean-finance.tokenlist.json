@@ -373,6 +373,14 @@
       "symbol": "VELA",
       "decimals": 18,
       "logoURI": "ipfs://QmeS3jS677ECBeL6CNzHUEPNTTBjJ9fCZX5SeoQe46Qf74"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb",
+      "name": "Kyber Network Crystal",
+      "symbol": "KNC",
+      "decimals": 18,
+      "logoURI": "ipfs://QmTiGZB1suSfu3GprUby98sUFxV4h2AEhvUWt5QQva6KEf/knc.png"
     }
   ],
   "timestamp":"2022-11-18T17:20:37+00:00",
