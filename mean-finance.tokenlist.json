@@ -381,6 +381,14 @@
       "symbol": "KNC",
       "decimals": 18,
       "logoURI": "ipfs://QmTiGZB1suSfu3GprUby98sUFxV4h2AEhvUWt5QQva6KEf/knc.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xd125443f38a69d776177c2b9c041f462936f8218",
+      "name": "FireBot",
+      "symbol": "FBX",
+      "decimals": 18,
+      "logoURI": "ipfs://QmayNrHSQF7iAQePoNK2BmGSMHSx8Z8fuXYqR2xNVEdkmP/knc.png"
     }
   ],
   "timestamp":"2022-11-18T17:20:37+00:00",
