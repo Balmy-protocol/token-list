@@ -375,7 +375,22 @@
       "logoURI": "ipfs://QmeS3jS677ECBeL6CNzHUEPNTTBjJ9fCZX5SeoQe46Qf74"
     },
     {
-      "chainId": 30,
+      "chainId": 42161,
+      "address": "0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb",
+      "name": "Kyber Network Crystal",
+      "symbol": "KNC",
+      "decimals": 18,
+      "logoURI": "ipfs://QmTiGZB1suSfu3GprUby98sUFxV4h2AEhvUWt5QQva6KEf/knc.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xd125443f38a69d776177c2b9c041f462936f8218",
+      "name": "FireBot",
+      "symbol": "FBX",
+      "decimals": 18,
+      "logoURI": "ipfs://QmayNrHSQF7iAQePoNK2BmGSMHSx8Z8fuXYqR2xNVEdkmP/knc.png"
+    },
+    "chainId": 30,
       "symbol": "ETHs",
       "name": "ETHs",
       "address": "0x1d931bf8656d795e50ef6d639562c5bd8ac2b78f",
