@@ -390,7 +390,8 @@
       "decimals": 18,
       "logoURI": "ipfs://QmayNrHSQF7iAQePoNK2BmGSMHSx8Z8fuXYqR2xNVEdkmP/knc.png"
     },
-    "chainId": 30,
+    {
+      "chainId": 30,
       "symbol": "ETHs",
       "name": "ETHs",
       "address": "0x1d931bf8656d795e50ef6d639562c5bd8ac2b78f",
