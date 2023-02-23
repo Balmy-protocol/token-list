@@ -493,6 +493,14 @@
       "address": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
       "decimals": 18,
       "logoURI": "ipfs://Qmapb5api2BKeLcHATuTMqvvcwuYX7QqcudTckNX3RmCHY"
+    },
+    {
+      "chainId": 137,
+      "symbol": "MVX",
+      "name": "Metavault Trade",
+      "address": "0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7",
+      "decimals": 18,
+      "logoURI": "ipfs://QmTQpJa7WuYJNjWWjTotygPUMtASbLkssTJSj3FFRJjbGf"
     }
   ],
   "timestamp":"2022-11-18T17:20:37+00:00",
