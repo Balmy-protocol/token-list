@@ -380,7 +380,7 @@
       "name": "Kyber Network Crystal",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "ipfs://QmTiGZB1suSfu3GprUby98sUFxV4h2AEhvUWt5QQva6KEf/knc.png"
+      "logoURI": "ipfs://QmTiGZB1suSfu3GprUby98sUFxV4h2AEhvUWt5QQva6KEf"
     },
     {
       "chainId": 137,
@@ -388,7 +388,7 @@
       "name": "FireBot",
       "symbol": "FBX",
       "decimals": 18,
-      "logoURI": "ipfs://QmayNrHSQF7iAQePoNK2BmGSMHSx8Z8fuXYqR2xNVEdkmP/knc.png"
+      "logoURI": "ipfs://QmayNrHSQF7iAQePoNK2BmGSMHSx8Z8fuXYqR2xNVEdkmP"
     },
     {
       "chainId": 30,
