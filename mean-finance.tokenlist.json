@@ -154,6 +154,14 @@
       }
     },
     {
+      "chainId": 42161,
+      "address": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.png",
+    },
+    {
       "chainId": 10,
       "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
       "name": "Perpetual",
@@ -380,7 +388,7 @@
       "name": "Kyber Network Crystal",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "ipfs://QmTiGZB1suSfu3GprUby98sUFxV4h2AEhvUWt5QQva6KEf"
+      "logoURI": "https://raw.githubusercontent.com/Mean-Finance/token-list/main/assets/chains/42161/0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb.svg"
     },
     {
       "chainId": 137,
