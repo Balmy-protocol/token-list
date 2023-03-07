@@ -159,7 +159,7 @@
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.png"
     },
     {
       "chainId": 10,
