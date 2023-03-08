@@ -1,0 +1,32 @@
+{
+  "name": "token-list",
+  "version": "1.0.0",
+  "description": "Mean Finance token list",
+  "keywords": [
+    "token",
+    "list",
+    "mean",
+    "web3",
+    "tokens"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mean-Finance/token-list.git"
+  },
+  "scripts": {
+    "lint:check": "prettier --check './**'",
+    "lint:fix": "sort-package-json && prettier --write './**'",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "*.json": [
+      "prettier --write"
+    ]
+  },
+  "devDependencies": {
+    "husky": "8.0.3",
+    "lint-staged": "13.1.2",
+    "prettier": "2.8.4",
+    "sort-package-json": "2.4.1"
+  }
+}

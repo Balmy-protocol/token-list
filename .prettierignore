@@ -1,0 +1,11 @@
+# General
+.DS_STORE
+.prettierignore
+.husky
+.gitignore
+*.svg
+
+# JS
+node_modules
+yarn.lock
+yarn-error.log
