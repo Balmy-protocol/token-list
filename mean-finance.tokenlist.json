@@ -856,7 +856,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "tags": [""],
+      "tags": [],
       "logoURI": "ipfs://QmPustaS11SLRauY8okJp2UhsTPCfHKQBQYocvpojKoiv9",
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 10
@@ -865,7 +865,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "tags": [""],
+      "tags": [],
       "logoURI": "ipfs://QmPustaS11SLRauY8okJp2UhsTPCfHKQBQYocvpojKoiv9",
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 69
@@ -874,7 +874,7 @@
       "name": "Synthetix",
       "symbol": "SNX",
       "decimals": 18,
-      "tags": [""],
+      "tags": [],
       "logoURI": "ipfs://QmTiGZB1suSfu3GprUby98sUFxV4h2AEhvUWt5QQva6KEf/snx.png",
       "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
       "chainId": 10
@@ -883,7 +883,7 @@
       "name": "Dai stable coin",
       "symbol": "DAI",
       "decimals": 18,
-      "tags": [""],
+      "tags": [],
       "logoURI": "ipfs://QmcxJBJN2tZ3RkuQWPqAGmE1PQteFvUrLzymPdU6J47Wnj",
       "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
       "chainId": 10
@@ -892,7 +892,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "tags": [""],
+      "tags": [],
       "logoURI": "ipfs://QmP2rfXa8kZRbdk5i9CJtW85FJNJj8B4JdDccS3jyLBjDv",
       "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
       "chainId": 10
@@ -901,7 +901,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "tags": [""],
+      "tags": [],
       "logoURI": "ipfs://QmP2rfXa8kZRbdk5i9CJtW85FJNJj8B4JdDccS3jyLBjDv",
       "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
       "chainId": 42161
@@ -910,7 +910,7 @@
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
-      "tags": [""],
+      "tags": [],
       "logoURI": "ipfs://QmTiGZB1suSfu3GprUby98sUFxV4h2AEhvUWt5QQva6KEf/wbtc.png",
       "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
       "chainId": 10
@@ -919,7 +919,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "tags": [""],
+      "tags": [],
       "logoURI": "ipfs://QmTiGZB1suSfu3GprUby98sUFxV4h2AEhvUWt5QQva6KEf/link.png",
       "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
       "chainId": 10
@@ -928,7 +928,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "tags": [""],
+      "tags": [],
       "logoURI": "ipfs://QmTiGZB1suSfu3GprUby98sUFxV4h2AEhvUWt5QQva6KEf/link.png",
       "address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
       "chainId": 42161
@@ -937,7 +937,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "tags": [""],
+      "tags": [],
       "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
       "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
       "chainId": 10
@@ -946,7 +946,7 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "tags": [""],
+      "tags": [],
       "logoURI": "ipfs://QmbnNzaqHML8ED6yqsAxhoop6Nzwxtt1G5rjeKGojpQsUn",
       "address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
       "chainId": 10
@@ -955,7 +955,7 @@
       "name": "Lyra",
       "symbol": "LYRA",
       "decimals": 18,
-      "tags": [""],
+      "tags": [],
       "logoURI": "ipfs://QmXHSUbFE2XL6J3U1Xk1obkkEeda9KqF6kbi2EfCqWUQqM",
       "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
       "chainId": 10
@@ -1024,7 +1024,7 @@
       "name": "miMATIC",
       "symbol": "miMATIC",
       "decimals": 18,
-      "tags": [""],
+      "tags": [],
       "logoURI": "ipfs://QmTGmjQ7bgCxyyCqfeZPGCDE3LJogAFXxAzkdQoqZHwCdR",
       "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
       "chainId": 137
@@ -1033,7 +1033,7 @@
       "name": "Jarvis Synthetic Euro",
       "symbol": "jEUR",
       "decimals": 18,
-      "tags": [""],
+      "tags": [],
       "logoURI": "ipfs://QmfXBoMTR8Ju6LWbjZxJdn1Dcrr81C39sMCkoofWZcsmjx",
       "address": "0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c",
       "chainId": 137
