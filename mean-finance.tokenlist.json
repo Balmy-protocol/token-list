@@ -1373,8 +1373,16 @@
       "address": "0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7",
       "decimals": 18,
       "logoURI": "ipfs://QmTQpJa7WuYJNjWWjTotygPUMtASbLkssTJSj3FFRJjbGf"
+    },
+    {
+      "chainId": 137,
+      "symbol": "XOC",
+      "name": "Xocolatl MXN Stablecoin",
+      "address": "0xa411c9aa00e020e4f88bc19996d29c5b7adb4acf",
+      "decimals": 18,
+      "logoURI": "ipfs://QmbiBykkViFj3wnUegcCjtupVgvZrTby2VywRSNTSETYvM"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
-  "version": { "major": 0, "minor": 4, "patch": 1 }
+  "version": { "major": 0, "minor": 4, "patch": 2 }
 }
