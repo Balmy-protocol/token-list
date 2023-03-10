@@ -1368,6 +1368,14 @@
     },
     {
       "chainId": 137,
+      "symbol": "wstETH",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "address": "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd",
+      "decimals": 18,
+      "logoURI": "ipfs://Qmapb5api2BKeLcHATuTMqvvcwuYX7QqcudTckNX3RmCHY"
+    },
+    {
+      "chainId": 137,
       "symbol": "MVX",
       "name": "Metavault Trade",
       "address": "0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7",
