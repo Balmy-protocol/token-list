@@ -1389,6 +1389,14 @@
       "address": "0xa411c9aa00e020e4f88bc19996d29c5b7adb4acf",
       "decimals": 18,
       "logoURI": "ipfs://QmbiBykkViFj3wnUegcCjtupVgvZrTby2VywRSNTSETYvM"
+    },
+    {
+      "chainId": 137,
+      "symbol": "MaticX",
+      "name": "Liquid Staking Matic (PoS)",
+      "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
+      "decimals": 18,
+      "logoURI": "ipfs://QmbcyGassHCbCGoVw5gHH8J8Q28uFodKE3dTUGWLK9HD9t"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
