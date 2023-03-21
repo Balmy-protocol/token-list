@@ -1397,6 +1397,14 @@
       "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
       "decimals": 18,
       "logoURI": "ipfs://QmbcyGassHCbCGoVw5gHH8J8Q28uFodKE3dTUGWLK9HD9t"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "RDPX",
+      "name": "Dopex Rebate Token",
+      "address": "0x32eb7902d4134bf98a28b963d26de779af92a212",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSuCFaJzc9RuTmfUkY3r7CYP7Wdynb7nJNU3SurcbSTU4"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
