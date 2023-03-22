@@ -1397,6 +1397,14 @@
       "address": "0x32eb7902d4134bf98a28b963d26de779af92a212",
       "decimals": 18,
       "logoURI": "ipfs://QmSuCFaJzc9RuTmfUkY3r7CYP7Wdynb7nJNU3SurcbSTU4"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Mean-Finance/token-list/main/assets/chains/42161/logo.svg"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
