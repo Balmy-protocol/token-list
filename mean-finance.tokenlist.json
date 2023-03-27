@@ -1405,6 +1405,14 @@
       "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Mean-Finance/token-list/main/assets/chains/42161/logo.svg"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "RDNT",
+      "name": "Radiant",
+      "address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+      "decimals": 18,
+      "logoURI": "ipfs://QmRR6NAqC3nq483FQkgjHi9VxzkXF2uuL82xLWHM7Nu3bQ"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
