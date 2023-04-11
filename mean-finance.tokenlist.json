@@ -1437,6 +1437,46 @@
       "address": "0xc4d4500326981eacD020e20A81b1c479c161c7EF",
       "decimals": 18,
       "logoURI": "ipfs://QmNxzYpUMYnxbKH7pFonU8Tt6UguCG5DLjXTz6BVmphpG7"
+    },
+    {
+      "chainId": 1,
+      "symbol": "exaUSDC",
+      "name": "Exactly USDC",
+      "address": "0x660e2fC185a9fFE722aF253329CEaAD4C9F6F928",
+      "decimals": 6,
+      "logoURI": "ipfs://QmQMuafpMzjkTg6ZhTzTmcUkTVbyNsFPGUiez5CrEYsMXL"
+    },
+    {
+      "chainId": 1,
+      "symbol": "exaWETH",
+      "name": "Exactly ETH",
+      "address": "0xc4d4500326981eacD020e20A81b1c479c161c7EF",
+      "decimals": 18,
+      "logoURI": "ipfs://QmNxzYpUMYnxbKH7pFonU8Tt6UguCG5DLjXTz6BVmphpG7"
+    },
+    {
+      "chainId": 1,
+      "symbol": "exaWBTC",
+      "name": "Exactly WBTC",
+      "address": "0x8644c0FDED361D1920e068bA4B09996e26729435",
+      "decimals": 8,
+      "logoURI": "ipfs://QmZ8mQGAXVZwdSfBrgtfdxqzir7qyvh4KnuCmuBoRQwmTu"
+    },
+    {
+      "chainId": 1,
+      "symbol": "exawstETH",
+      "name": "Exactly wstETH",
+      "address": "0x3843c41DA1d7909C86faD51c47B9A97Cf62a29e1",
+      "decimals": 18,
+      "logoURI": "ipfs://QmaZ66F1Q1T4nmrtu8ZNYpuTQWSDPrHpZkhFxbdfxgVaaC"
+    },
+    {
+      "chainId": 1,
+      "symbol": "exaDAI",
+      "name": "Exactly DAI",
+      "address": "0x163538E22F4d38c1eb21B79939f3d2ee274198Ff",
+      "decimals": 18,
+      "logoURI": "ipfs://QmQn7gtppcZL3pc1RPtZqTmH7puGG5RhBEzPoqgMbXXwej"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
