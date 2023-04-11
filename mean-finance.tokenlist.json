@@ -1421,6 +1421,22 @@
       "address": "0xa430A427bd00210506589906a71B54d6C256CEdb",
       "decimals": 18,
       "logoURI": "ipfs://QmaHdQafn4Ew8zHxuXoj3rANHF2o6TWBfuovaJGeRCn5kW"
+    },
+    {
+      "chainId": 10,
+      "symbol": "exaUSDC",
+      "name": "Exactly USDC",
+      "address": "0x81C9A7B55A4df39A9B7B5F781ec0e53539694873",
+      "decimals": 6,
+      "logoURI": "ipfs://QmQMuafpMzjkTg6ZhTzTmcUkTVbyNsFPGUiez5CrEYsMXL"
+    },
+    {
+      "chainId": 10,
+      "symbol": "exaWETH",
+      "name": "Exactly ETH",
+      "address": "0xc4d4500326981eacD020e20A81b1c479c161c7EF",
+      "decimals": 18,
+      "logoURI": "ipfs://QmNxzYpUMYnxbKH7pFonU8Tt6UguCG5DLjXTz6BVmphpG7"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
