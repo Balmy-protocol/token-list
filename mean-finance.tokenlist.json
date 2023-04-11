@@ -1413,6 +1413,14 @@
       "address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
       "decimals": 18,
       "logoURI": "ipfs://QmRR6NAqC3nq483FQkgjHi9VxzkXF2uuL82xLWHM7Nu3bQ"
+    },
+    {
+      "chainId": 10,
+      "symbol": "exaOP",
+      "name": "Exactly OP",
+      "address": "0xa430A427bd00210506589906a71B54d6C256CEdb",
+      "decimals": 18,
+      "logoURI": "ipfs://QmaHdQafn4Ew8zHxuXoj3rANHF2o6TWBfuovaJGeRCn5kW"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
