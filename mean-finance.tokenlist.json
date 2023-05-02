@@ -1409,10 +1409,18 @@
     {
       "chainId": 42161,
       "symbol": "RDNT",
-      "name": "Radiant",
+      "name": "Radiant V2",
       "address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
       "decimals": 18,
       "logoURI": "ipfs://QmRR6NAqC3nq483FQkgjHi9VxzkXF2uuL82xLWHM7Nu3bQ"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "PENDLE",
+      "name": "Pendle",
+      "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+      "decimals": 18,
+      "logoURI": "ipfs://QmaPvW4zcJsMVdraWEap6WBTBDV42kVhMszCXozWewvmU3"
     },
     {
       "chainId": 10,
