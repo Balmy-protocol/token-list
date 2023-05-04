@@ -996,7 +996,7 @@
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1007,7 +1007,7 @@
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.png"
+      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg"
     },
     {
       "chainId": 10,
@@ -1421,6 +1421,14 @@
       "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
       "decimals": 18,
       "logoURI": "ipfs://QmaPvW4zcJsMVdraWEap6WBTBDV42kVhMszCXozWewvmU3"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "GRAIL",
+      "name": "Camelot token",
+      "address": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUy8HiQN2uT3FrQDwQWEvKxiB5uN6QkpXG2xn5Wjpk3vc"
     },
     {
       "chainId": 10,
