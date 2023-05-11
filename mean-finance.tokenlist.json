@@ -1431,6 +1431,22 @@
       "logoURI": "ipfs://QmQZQqkTHkB53F87LJVugJvDTrTr2Engp9EyrRM9MGjG1m"
     },
     {
+      "chainId": 42161,
+      "symbol": "LUSD",
+      "name": "LUSD Stablecoin",
+      "address": "0x93b346b6bc2548da6a1e7d98e9a421b42541425b",
+      "decimals": 18,
+      "logoURI": "ipfs://QmXnjyYTQvdDr9qCWgzLLvq9dC9L1gNe8N2EtmyVEPPc1s"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "TUSD",
+      "name": "TrueUSD",
+      "address": "0x4d15a3a2286d883af0aa1b3f21367843fac63e07",
+      "decimals": 18,
+      "logoURI": "ipfs://QmZDELYVfWbZ13gGyptvf8k6fVcpAyMvaKe97mbB6q2bQa"
+    },
+    {
       "chainId": 10,
       "symbol": "exaOP",
       "name": "Exactly OP",
