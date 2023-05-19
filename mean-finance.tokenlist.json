@@ -1509,6 +1509,14 @@
       "address": "0x163538E22F4d38c1eb21B79939f3d2ee274198Ff",
       "decimals": 18,
       "logoURI": "ipfs://QmQn7gtppcZL3pc1RPtZqTmH7puGG5RhBEzPoqgMbXXwej"
+    },
+    {
+      "chainId": 84531,
+      "symbol": "MEAN",
+      "name": "Mean Finance",
+      "address": "0xd71a868cf2c3efe70795bec9ab63e5b318a3e791",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUUbaZvrD8Ymr2nV6db4Cbtd1aMCiSP7MoyvBv9LTnrmP"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
