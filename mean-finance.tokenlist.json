@@ -996,7 +996,7 @@
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
@@ -1007,7 +1007,7 @@
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.png"
+      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg"
     },
     {
       "chainId": 10,
@@ -1409,10 +1409,42 @@
     {
       "chainId": 42161,
       "symbol": "RDNT",
-      "name": "Radiant",
+      "name": "Radiant V2",
       "address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
       "decimals": 18,
       "logoURI": "ipfs://QmRR6NAqC3nq483FQkgjHi9VxzkXF2uuL82xLWHM7Nu3bQ"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "PENDLE",
+      "name": "Pendle",
+      "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+      "decimals": 18,
+      "logoURI": "ipfs://QmaPvW4zcJsMVdraWEap6WBTBDV42kVhMszCXozWewvmU3"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "GRAIL",
+      "name": "Camelot token",
+      "address": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+      "decimals": 18,
+      "logoURI": "ipfs://QmQZQqkTHkB53F87LJVugJvDTrTr2Engp9EyrRM9MGjG1m"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "LUSD",
+      "name": "LUSD Stablecoin",
+      "address": "0x93b346b6bc2548da6a1e7d98e9a421b42541425b",
+      "decimals": 18,
+      "logoURI": "ipfs://QmXnjyYTQvdDr9qCWgzLLvq9dC9L1gNe8N2EtmyVEPPc1s"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "TUSD",
+      "name": "TrueUSD",
+      "address": "0x4d15a3a2286d883af0aa1b3f21367843fac63e07",
+      "decimals": 18,
+      "logoURI": "ipfs://QmZDELYVfWbZ13gGyptvf8k6fVcpAyMvaKe97mbB6q2bQa"
     },
     {
       "chainId": 10,
@@ -1493,6 +1525,14 @@
       "address": "0x163538E22F4d38c1eb21B79939f3d2ee274198Ff",
       "decimals": 18,
       "logoURI": "ipfs://QmQn7gtppcZL3pc1RPtZqTmH7puGG5RhBEzPoqgMbXXwej"
+    },
+    {
+      "chainId": 84531,
+      "symbol": "MEAN",
+      "name": "Mean Finance",
+      "address": "0xd71a868cf2c3efe70795bec9ab63e5b318a3e791",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUUbaZvrD8Ymr2nV6db4Cbtd1aMCiSP7MoyvBv9LTnrmP"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
