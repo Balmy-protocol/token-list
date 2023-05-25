@@ -1416,6 +1416,14 @@
     },
     {
       "chainId": 10,
+      "symbol": "miMATIC",
+      "name": "miMATIC",
+      "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+      "decimals": 18,
+      "logoURI": "ipfs://QmTGmjQ7bgCxyyCqfeZPGCDE3LJogAFXxAzkdQoqZHwCdR"
+    },
+    {
+      "chainId": 10,
       "symbol": "exaOP",
       "name": "Exactly OP",
       "address": "0xa430A427bd00210506589906a71B54d6C256CEdb",
@@ -1437,6 +1445,14 @@
       "address": "0xc4d4500326981eacD020e20A81b1c479c161c7EF",
       "decimals": 18,
       "logoURI": "ipfs://QmNxzYpUMYnxbKH7pFonU8Tt6UguCG5DLjXTz6BVmphpG7"
+    },
+    {
+      "chainId": 10,
+      "symbol": "exawstETH",
+      "name": "Exactly wstETH",
+      "address": "0x22ab31Cd55130435b5efBf9224b6a9d5EC36533F",
+      "decimals": 18,
+      "logoURI": "ipfs://QmaZ66F1Q1T4nmrtu8ZNYpuTQWSDPrHpZkhFxbdfxgVaaC"
     },
     {
       "chainId": 1,
