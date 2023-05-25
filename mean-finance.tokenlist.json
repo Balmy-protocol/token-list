@@ -907,6 +907,15 @@
       "chainId": 42161
     },
     {
+      "name": "Rocket Pool Protocol",
+      "symbol": "RPL",
+      "decimals": 18,
+      "tags": [],
+      "logoURI": "ipfs://QmWGXmd7dvGAjKZDcarCGdwPgBGtZvV2aKtCw1zpYaCRng",
+      "address": "0xb766039cc6db368759c1e56b79affe831d0cc507",
+      "chainId": 42161
+    },
+    {
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
