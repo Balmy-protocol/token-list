@@ -1550,6 +1550,14 @@
       "address": "0x4b4327db1600b8b1440163f667e199cef35385f5",
       "decimals": 18,
       "logoURI": "ipfs://QmXgQiYe3HsxCDEisZQmKL5TNb1HCMaC73PKPsRzsm47WV"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "cbETH",
+      "name": "Coinbase Wrapped Staked ETH",
+      "address": "0x1debd73e752beaf79865fd6446b0c970eae7732f",
+      "decimals": 18,
+      "logoURI": "ipfs://QmXgQiYe3HsxCDEisZQmKL5TNb1HCMaC73PKPsRzsm47WV"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
