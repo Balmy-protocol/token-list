@@ -160,6 +160,24 @@
       "tags": []
     },
     {
+      "name": "Bridged USDC",
+      "decimals": 6,
+      "symbol": "USDC.e",
+      "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+      "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
+      "chainId": 42161,
+      "tags": []
+    },
+    {
+      "name": "USD Coin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+      "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
+      "chainId": 42161,
+      "tags": []
+    },
+    {
       "name": "Uniswap",
       "decimals": 18,
       "symbol": "UNI",
