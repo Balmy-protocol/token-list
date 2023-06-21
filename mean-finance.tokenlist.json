@@ -1576,6 +1576,14 @@
       "address": "0x1debd73e752beaf79865fd6446b0c970eae7732f",
       "decimals": 18,
       "logoURI": "ipfs://QmXgQiYe3HsxCDEisZQmKL5TNb1HCMaC73PKPsRzsm47WV"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "MIM",
+      "name": "Magic Internet Money",
+      "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
+      "decimals": 18,
+      "logoURI": "ipfs://QmdAiSsewQy6AacNxjPsfw2yRAwvQSnRni5X3waV1GEvVG"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
