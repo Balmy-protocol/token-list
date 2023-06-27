@@ -1584,6 +1584,14 @@
       "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
       "decimals": 18,
       "logoURI": "ipfs://QmdAiSsewQy6AacNxjPsfw2yRAwvQSnRni5X3waV1GEvVG"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "MCB",
+      "name": "MUX Protocol",
+      "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSgafFevZRFEvko3g4G1LU3EWNGTK6Bp5FndLGpnRJsFe"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
