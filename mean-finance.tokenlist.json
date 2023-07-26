@@ -2281,7 +2281,7 @@
       "address": "0xf04a45b429eb5930a85884141c530147db0f609e",
       "name": "Valhalla Dao ",
       "decimals": 18,
-      "logoURI": "valhalla-dao.com/wp-content/uploads/2023/02/logo1-1.png",
+      "logoURI": "https://valhalla-dao.com/wp-content/uploads/2023/02/logo1-1.png",
       "symbol": "ODIN",
       "chainId": 250
     },
