@@ -2,7 +2,12 @@
   "name": "Mean Finance List",
   "logoURI": "ipfs://QmcYopE7kmcTq1sBczvTzzYqpe997g8yNC28q4WYdwxAiX",
   "keywords": ["audited", "verified", "mean", "finance", "dca", "gasless", "meanfinance"],
-  "tags": { "stablecoin": { "name": "Stablecoin", "description": "Tokens that are fixed to an external asset" } },
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    }
+  },
   "tokens": [
     {
       "name": "Dai Stablecoin",
@@ -130,8 +135,22 @@
       "chainId": 1,
       "tags": []
     },
-    { "name": "USD Coin", "decimals": 6, "symbol": "USDC", "address": "0x07865c6e87b9f70255377e024ace6630c1eaa37f", "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2", "chainId": 3 },
-    { "name": "USD Coin", "decimals": 6, "symbol": "USDC", "address": "0x4dbcdf9b62e891a7cec5a2568c3f4faf9e8abe2b", "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2", "chainId": 4 },
+    {
+      "name": "USD Coin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "address": "0x07865c6e87b9f70255377e024ace6630c1eaa37f",
+      "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
+      "chainId": 3
+    },
+    {
+      "name": "USD Coin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "address": "0x4dbcdf9b62e891a7cec5a2568c3f4faf9e8abe2b",
+      "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
+      "chainId": 4
+    },
     {
       "name": "USD Coin",
       "decimals": 6,
@@ -1601,8 +1620,1828 @@
       "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
       "decimals": 18,
       "logoURI": "ipfs://QmSgafFevZRFEvko3g4G1LU3EWNGTK6Bp5FndLGpnRJsFe"
+    },
+    {
+      "address": "0xf24bcf4d1e507740041c9cfd2dddb29585adce1e",
+      "name": "Beethoven X",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png?1634545465",
+      "symbol": "BEETS",
+      "chainId": 250
+    },
+    {
+      "address": "0x2130d2a1e51112d349ccf78d2a1ee65843ba36e0",
+      "name": "UniDex",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13178/large/unidx.png?1634888975",
+      "symbol": "multiUNIDX",
+      "chainId": 250
+    },
+    {
+      "address": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
+      "name": "Gelato",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15026/large/Gelato_Icon_Logo_1024x1024.png?1619491717",
+      "symbol": "GEL",
+      "chainId": 250
+    },
+    {
+      "address": "0xd89cc0d2a28a769eadef50fff74ebc07405db9fc",
+      "name": "Elyseos",
+      "decimals": 5,
+      "logoURI": "https://www.elyseos.com/static/Elyseos%20Logo-b3a99983872d9ab1e973576ebd85fd51.png",
+      "symbol": "ELYS",
+      "chainId": 250
+    },
+    {
+      "address": "0xe992c5abddb05d86095b18a158251834d616f0d1",
+      "name": "Wrapped sEXOD",
+      "decimals": 18,
+      "logoURI": "https://exodia.fi/assets/img/icon/wsexod-icon.png",
+      "symbol": "wsEXOD",
+      "chainId": 250
+    },
+    {
+      "address": "0xfa985463b7fa975d06cde703ec72efccf293c605",
+      "name": "Reaper wBTC Multi Crypt",
+      "decimals": 8,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-BTC.png",
+      "symbol": "rf-WBTC",
+      "chainId": 250
+    },
+    {
+      "address": "0x82f0b8b456c1a451378467398982d4834b6829c1",
+      "name": "Magic Internet Money",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/16786/large/mimlogopng.png?1624979612",
+      "symbol": "MIM",
+      "chainId": 250
+    },
+    {
+      "address": "0x2e79205648b85485731cfe3025d66cf2d3b059c4",
+      "name": "Scarab",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22033/large/scarab-logo.d6fea1b1.png?1640659016",
+      "symbol": "SCARAB",
+      "chainId": 250
+    },
+    {
+      "address": "0xd7028092c830b5c8fce061af2e593413ebbc1fc1",
+      "name": "Stader sFTMX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26586/large/Fantom_Light.png.png?1658900076",
+      "symbol": "sFTMx",
+      "chainId": 250
+    },
+    {
+      "address": "0x49769fe4c796b2775d2e44982cca8cdae36f6671",
+      "name": "Beets Tarot Boosted Pool (tinSPIRIT)",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-tinspirit.svg",
+      "symbol": "bb-tinSPIRIT",
+      "chainId": 250
+    },
+    {
+      "address": "0x91a40c733c97a6e1bf876eaf9ed8c08102eb491f",
+      "name": "LayerZero Dai",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/dai-128.png",
+      "symbol": "lzDAI",
+      "chainId": 250
+    },
+    {
+      "address": "0xd55c59da5872de866e39b1e3af2065330ea8acd6",
+      "name": "Reaper USDC Multi Crypt",
+      "decimals": 6,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDC%402x.png",
+      "symbol": "rf-USDC",
+      "chainId": 250
+    },
+    {
+      "address": "0xa882ceac81b22fc2bef8e1a82e823e3e9603310b",
+      "name": "PanicSwap",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23643/large/chef.09dad978.png?1644909854",
+      "symbol": "PANIC",
+      "chainId": 250
+    },
+    {
+      "address": "0x846e4d51d7e2043c1a87e0ab7490b93fb940357b",
+      "name": "TerraUSD (Wormhole)",
+      "decimals": 6,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/terraUSD-Wormhole%402x.png",
+      "symbol": "UST (Wormhole)",
+      "chainId": 250
+    },
+    {
+      "address": "0x54546a860416483994e7e83803a72d59d15fbaa3",
+      "name": "Deliland",
+      "decimals": 18,
+      "logoURI": "https://deliland.io/static/media/deliland-cane-icon.6d6a0b8e.png",
+      "symbol": "CANE",
+      "chainId": 250
+    },
+    {
+      "address": "0x80fe671e580cd1d95b2dcd8ea09233df06c81c7b",
+      "name": "Staked tinSPIRIT",
+      "decimals": 18,
+      "logoURI": "https://www.tarot.to/assets/images/token-icons/0x80Fe671E580CD1D95B2Dcd8EA09233DF06C81C7b.png",
+      "symbol": "xtinSPIRIT",
+      "chainId": 250
+    },
+    {
+      "address": "0xfe0004ca84bac1d9cf24a3270bf70be7e68e43ac",
+      "name": "Beets Yearn Boosted Pool (fUSDT)",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDT.png",
+      "symbol": "bb-yv-fUSDT",
+      "chainId": 250
+    },
+    {
+      "address": "0x1c1d786f88eaf8fd1e0939757520bec1413310fe",
+      "name": "Imp",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/SA4Itav.png",
+      "symbol": "IMP",
+      "chainId": 250
+    },
+    {
+      "address": "0xa8bcdca345e61bad9bb539933a4009f7a6f4b7ea",
+      "name": "Beets Reaper Boosted WFTM",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
+      "symbol": "bb-rfWFTM",
+      "chainId": 250
+    },
+    {
+      "address": "0x84f8d24231dfbbfae7f39415cd09c8f467729fc8",
+      "name": "Cosmic Cash",
+      "decimals": 18,
+      "logoURI": "https://mineempire.io/assets/csc-256x256.png",
+      "symbol": "CSC",
+      "chainId": 250
+    },
+    {
+      "address": "0xa7727db8db5afca6d88eb7fb9e8e322dc043325a",
+      "name": "Wrapped Staked Secure",
+      "decimals": 18,
+      "logoURI": "https://github.com/SecureDAO/media-assets/raw/master/images/logos/tokens/wsSCR256x.png",
+      "symbol": "wsSCR",
+      "chainId": 250
+    },
+    {
+      "address": "0x13082681e8ce9bd0af505912d306403592490fc7",
+      "name": "Parallel",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14153/large/par_round_200.png?1614670422",
+      "symbol": "PAR",
+      "chainId": 250
+    },
+    {
+      "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+      "name": "Wrapped Fantom",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4001/large/Fantom.png?1558015016",
+      "symbol": "wFTM",
+      "chainId": 250
+    },
+    {
+      "address": "0x0615dbba33fe61a31c7ed131bda6655ed76748b1",
+      "name": "Ankr Network (Multichain)",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4324/large/U85xTl2.png?1608111978",
+      "symbol": "multiANKR",
+      "chainId": 250
+    },
+    {
+      "address": "0x0e249130b3545a2a287de9f27d805cab95f03db9",
+      "name": "Firebird Aggregator",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26164/large/logo_token-2.2.png?1656324549",
+      "symbol": "FBA",
+      "chainId": 250
+    },
+    {
+      "address": "0x91fa20244fb509e8289ca630e5db3e9166233fdc",
+      "name": "Governance OHM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21129/large/token_wsOHM_logo.png?1638764900",
+      "symbol": "GOHM",
+      "chainId": 250
+    },
+    {
+      "address": "0xe47d957f83f8887063150aaf7187411351643392",
+      "name": "ChillPill",
+      "decimals": 18,
+      "logoURI": "https://o4uo7lzv24xpbh5njcruzrlxauf2hwznl5yz34htj3tj5o75lqlq.arweave.net/dyjvrzXXLvCfrUijTMV3BQuj2y1fcZ3w807mnrv9XBc",
+      "symbol": "CHILL",
+      "chainId": 250
+    },
+    {
+      "address": "0x14418c22165553251b002b289f8abe4d1ed41d76",
+      "name": "Fear NFTs",
+      "decimals": 18,
+      "logoURI": "https://www.fear.io/images/fear-icon-round.svg",
+      "symbol": "FEAR",
+      "chainId": 250
+    },
+    {
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "name": "Stargate Token",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png",
+      "symbol": "STG",
+      "chainId": 250
+    },
+    {
+      "address": "0xef4b763385838fffc708000f884026b8c0434275",
+      "name": "XEN Crypto",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27713/large/Xen.jpeg?1665453190",
+      "symbol": "fmXEN",
+      "chainId": 250
+    },
+    {
+      "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b",
+      "name": "Curve DAO Token",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png",
+      "symbol": "CRV",
+      "chainId": 250
+    },
+    {
+      "address": "0x230112fa4b07234769fc92bd616c8c77f4fe0e53",
+      "name": "Beets Tarot Boosted Pool (MAI)",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-t-mai.svg",
+      "symbol": "bb-t-MAI",
+      "chainId": 250
+    },
+    {
+      "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
+      "name": "old _DEI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18779/small/DEI-logo-round-white-3.png?1646300101",
+      "symbol": "old_DEI",
+      "chainId": 250
+    },
+    {
+      "address": "0x654def39262548cc958d07c82622e23c52411c82",
+      "name": "Beets Reaper Boosted USDC",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDC%402x.png",
+      "symbol": "bb-rfUSDC",
+      "chainId": 250
+    },
+    {
+      "address": "0x953e94caf91a1e32337d0548b9274f337920edfa",
+      "name": "USDV",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/usdv.png",
+      "symbol": "USDV",
+      "chainId": 250
+    },
+    {
+      "address": "0x3c4a5b93bd2de7fa2bf75fe32521e30033012c9f",
+      "name": "Beluga locked LQDR",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/LQDR_Blogo-1.png",
+      "symbol": "beLQDR",
+      "chainId": 250
+    },
+    {
+      "address": "0x21ada0d2ac28c3a5fa3cd2ee30882da8812279b6",
+      "name": "Oath Token",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/OATH_ICON.svg",
+      "symbol": "OATH",
+      "chainId": 250
+    },
+    {
+      "address": "0xb66b5d38e183de42f21e92abcaf3c712dd5d6286",
+      "name": "Morpheus Swap",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18306/large/pills.png",
+      "symbol": "PILLS",
+      "chainId": 250
+    },
+    {
+      "address": "0x911d1feae99e112b5014cfa60038325d863352f1",
+      "name": "Wolf Ventures",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28051/large/wv_trans_logo_%281%29.png?1667281353",
+      "symbol": "$WV",
+      "chainId": 250
+    },
+    {
+      "address": "0x16dcdc7bb3235a60243b34875c9d86a4980da26d",
+      "name": "Deliland",
+      "decimals": 9,
+      "logoURI": "https://deliland.io/static/media/mgDELI-icon.7424806d.png",
+      "symbol": "mgDELI",
+      "chainId": 250
+    },
+    {
+      "address": "0xf16e81dce15b08f326220742020379b855b87df9",
+      "name": "Popsicle Finance",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14586/large/ice.png?1617188825",
+      "symbol": "ICE",
+      "chainId": 250
+    },
+    {
+      "address": "0x92502cd8e00f5b8e737b2ba203fdd7cd27b23c8f",
+      "name": "Beets Reaper Boosted wFTM",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
+      "symbol": "bb-rfWFTM",
+      "chainId": 250
+    },
+    {
+      "address": "0xde1e704dae0b4051e80dabb26ab6ad6c12262da0",
+      "name": "DEI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18779/large/DEI-logo-round-white-3.png?1646300101",
+      "symbol": "DEI",
+      "chainId": 250
+    },
+    {
+      "address": "0x501ace9c35e60f03a2af4d484f49f9b1efde9f40",
+      "name": "SOLACE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21277/large/IMG_6599.png?1638862378",
+      "symbol": "SOLACE",
+      "chainId": 250
+    },
+    {
+      "address": "0x68aa691a8819b07988b18923f712f3f4c8d36346",
+      "name": "Qi Dao",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15329/large/qi.png?1620540969",
+      "symbol": "QI",
+      "chainId": 250
+    },
+    {
+      "address": "0x40df1ae6074c35047bff66675488aa2f9f6384f3",
+      "name": "Polygon",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png",
+      "symbol": "multiMATIC",
+      "chainId": 250
+    },
+    {
+      "address": "0xe3a486c1903ea794eed5d5fa0c9473c7d7708f40",
+      "name": "Creditum USD ",
+      "decimals": 18,
+      "logoURI": "https://revenant.finance/img/tokens/cUSD.png",
+      "symbol": "cUSD",
+      "chainId": 250
+    },
+    {
+      "address": "0x9e73f99ee061c8807f69f9c6ccc44ea3d8c373ee",
+      "name": "Frax Ether",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/frxETH+icon.png",
+      "symbol": "fraxEth",
+      "chainId": 250
+    },
+    {
+      "address": "0x250cd2c6b7259a0621d1c2997c48dddbea54a5a6",
+      "name": "Baby Wool",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/Bwool_logo_round.svg",
+      "symbol": "BWOOL",
+      "chainId": 250
+    },
+    {
+      "address": "0x010226c777e27e04ae31d4cdde9510863f5f1aaa",
+      "name": "Multiverse",
+      "decimals": 18,
+      "logoURI": "https://quanta.farmgod.finance/static/media/quanta.f6421c18.png",
+      "symbol": "QUANTA",
+      "chainId": 250
+    },
+    {
+      "address": "0x1f365ac62aabf64ef52a2c2fd86df9dd9e03665f",
+      "name": "Deliland",
+      "decimals": 18,
+      "logoURI": "https://deliland.io/static/media/animal.e2a9910b.png",
+      "symbol": "ANIMAL",
+      "chainId": 250
+    },
+    {
+      "address": "0xce1e3cc1950d2aaeb47de04de2dec2dc86380e0a",
+      "name": "Ethos Reserve Note",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29744/large/ERN200x200.png?1681106290",
+      "symbol": "ERN",
+      "chainId": 250
+    },
+    {
+      "address": "0xae45a827625116d6c0c40b5d7359ecf68f8e9afd",
+      "name": "Comb Finance",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22376/large/logo-background-circle-200x200.png?1641782421",
+      "symbol": "COMB",
+      "chainId": 250
+    },
+    {
+      "address": "0x86c6aca3c920cb85261f2a3f2f89450b906297cc",
+      "name": "Truth",
+      "decimals": 18,
+      "logoURI": "https://eyeoftruth.io/static/media/ALETHEIA.png",
+      "symbol": "ALETHEIA",
+      "chainId": 250
+    },
+    {
+      "address": "0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9",
+      "name": "LiquidDriver",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15782/large/LQDR_Glowing_Icon.png?1631200053",
+      "symbol": "LQDR",
+      "chainId": 250
+    },
+    {
+      "address": "0xd817a100ab8a29fe3dbd925c2eb489d67f758da9",
+      "name": "WBTC yVault",
+      "decimals": 8,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/yvWBTC.png",
+      "symbol": "yvWBTC",
+      "chainId": 250
+    },
+    {
+      "address": "0x86c8bf055d6785a00b23361a49b849859b7f686b",
+      "name": "Multiverse",
+      "decimals": 9,
+      "logoURI": "https://eyeoftruth.io/static/media/govECHO.png",
+      "symbol": "govECHO",
+      "chainId": 250
+    },
+    {
+      "address": "0xe5586582e1a60e302a53e73e4fadccaf868b459a",
+      "name": "Arcane Relic",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/xrlc.png",
+      "symbol": "XRLC",
+      "chainId": 250
+    },
+    {
+      "address": "0xaea55c0e84af6e5ef8c9b7042fb6ab682516214a",
+      "name": "Reaper fUSDT Multi Crypt",
+      "decimals": 6,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDT.png",
+      "symbol": "rf-fUSDT",
+      "chainId": 250
+    },
+    {
+      "address": "0xb85a3fc39993b2e7e6874b8700b436c212a00516",
+      "name": "Beets Reaper Boosted Pool (TUSD)",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-rr-TUSD.png",
+      "symbol": "bb-rf-TUSD",
+      "chainId": 250
+    },
+    {
+      "address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
+      "name": "DEUS Finance",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18778/large/DEUS-logo-200x200.png",
+      "symbol": "DEUS",
+      "chainId": 250
+    },
+    {
+      "address": "0x357ca46da26e1eefc195287ce9d838a6d5023ef3",
+      "name": "FRAX yVault",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/yvFRAX.png",
+      "symbol": "yvFRAX",
+      "chainId": 250
+    },
+    {
+      "address": "0x6fc9383486c163fa48becdec79d6058f984f62ca",
+      "name": "USD Balance",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24341/large/usdb.png?1647398082",
+      "symbol": "USDB",
+      "chainId": 250
+    },
+    {
+      "address": "0xbf4906762c38f50bc7be0a11bb452c944f6c72e1",
+      "name": "Shrapnel",
+      "decimals": 18,
+      "logoURI": "https://app.fbomb.finance/images/tokens/0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1.png",
+      "symbol": "SHRAP",
+      "chainId": 250
+    },
+    {
+      "address": "0x44f7237df00e386af8e79b817d05ed9f6fe0f296",
+      "name": "Solana",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4128/large/Solana.jpg",
+      "symbol": "SOL",
+      "chainId": 250
+    },
+    {
+      "address": "0xcc1b99ddac1a33c201a742a1851662e87bc7f22c",
+      "name": "LayerZero USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
+      "symbol": "lzUSDT",
+      "chainId": 250
+    },
+    {
+      "address": "0xd802df71f737f9c687c5d389fd6ac421d0666f10",
+      "name": "Deliland",
+      "decimals": 18,
+      "logoURI": "https://deliland.io/static/media/watertoken256.d860f17d.png",
+      "symbol": "gH2O",
+      "chainId": 250
+    },
+    {
+      "address": "0xddcb3ffd12750b45d32e084887fdf1aabab34239",
+      "name": "Anyswap",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12242/large/anyswap.jpg?1598443880",
+      "symbol": "ANY",
+      "chainId": 250
+    },
+    {
+      "address": "0x4455aef4b5d8ffe3436184e8a1ec99607f9a4340",
+      "name": "Reaper USDC Crypt",
+      "decimals": 6,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDC%402x.png",
+      "symbol": "rfUSDC",
+      "chainId": 250
+    },
+    {
+      "address": "0xef0210eb96c7eb36af8ed1c20306462764935607",
+      "name": "USDC yVault",
+      "decimals": 6,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/yvUSDC.png",
+      "symbol": "yvUSDC",
+      "chainId": 250
+    },
+    {
+      "address": "0x468003b688943977e6130f4f68f23aad939a1040",
+      "name": "Spell",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15861/large/abracadabra-3.png?1622544862",
+      "symbol": "multiSPELL",
+      "chainId": 250
+    },
+    {
+      "address": "0x3c1420df122ac809b9d1ba77906f833764d64501",
+      "name": "Beets Reaper Boosted wBTC",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-BTC.png",
+      "symbol": "bb-rfWBTC",
+      "chainId": 250
+    },
+    {
+      "address": "0xc052627bc73117d2cb3569f133419550156bdfa1",
+      "name": "Reaper wETH Multi Crypt",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-ETH.png",
+      "symbol": "rf-WETH",
+      "chainId": 250
+    },
+    {
+      "address": "0x152d62dccc2c7c7930c4483cc2a24fefd23c24c2",
+      "name": "Reaper WETH Crypt",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-ETH.png",
+      "symbol": "rfWETH",
+      "chainId": 250
+    },
+    {
+      "address": "0xc931f61b1534eb21d8c11b24f3f5ab2471d4ab50",
+      "name": "Binance USD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png?1568947766",
+      "symbol": "BUSD",
+      "chainId": 250
+    },
+    {
+      "address": "0xe0654c8e6fd4d733349ac7e09f6f23da256bf475",
+      "name": "SCREAM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17509/large/output-onlinepngtools_%286%29.png?1628053862",
+      "symbol": "SCREAM",
+      "chainId": 250
+    },
+    {
+      "address": "0x16dbd24713c1e6209142bcfeed8c170d83f84924",
+      "name": "fantoms.art Token",
+      "decimals": 18,
+      "logoURI": "https://mint.fantoms.art/opr.jfif",
+      "symbol": "OPR",
+      "chainId": 250
+    },
+    {
+      "address": "0x195fe0c899434fb47cd6c1a09ba9da56a1cca12c",
+      "name": "Multiverse",
+      "decimals": 18,
+      "logoURI": "https://eyeoftruth.io/static/media/munny.43d4bd5c.png",
+      "symbol": "MUNNY",
+      "chainId": 250
+    },
+    {
+      "address": "0x5cc61a78f164885776aa610fb0fe1257df78e59b",
+      "name": "SpiritSwap",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15118/large/4mY2Biy9_400x400.jpg?1619753382",
+      "symbol": "SPIRIT",
+      "chainId": 250
+    },
+    {
+      "address": "0xe0d902bcc8c8f15caee20c57069163c5c1f55ee1",
+      "name": "Deliland",
+      "decimals": 18,
+      "logoURI": "https://deliland.io/static/media/deliland-gpoil-icon.ca75f5c7.png",
+      "symbol": "gpOIL",
+      "chainId": 250
+    },
+    {
+      "address": "0x80d7413331afb37b30bc0ef6ae9d11a40bcf014b",
+      "name": "Tarot MAI Supply Vault",
+      "decimals": 18,
+      "logoURI": "https://www.tarot.to/assets/images/token-icons/0x80D7413331AfB37B30BC0eF6AE9d11A40bcf014B.png",
+      "symbol": "tMAI",
+      "chainId": 250
+    },
+    {
+      "address": "0xc5713b6a0f26bf0fdc1c52b90cd184d950be515c",
+      "name": "linSpirit",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/linspirit.png",
+      "symbol": "LINSPIRIT",
+      "chainId": 250
+    },
+    {
+      "address": "0xf04a45b429eb5930a85884141c530147db0f609e",
+      "name": "Valhalla Dao ",
+      "decimals": 18,
+      "logoURI": "valhalla-dao.com/wp-content/uploads/2023/02/logo1-1.png",
+      "symbol": "ODIN",
+      "chainId": 250
+    },
+    {
+      "address": "0x7381ed41f6de418dde5e84b55590422a57917886",
+      "name": "Beefy Escrowed Fantom",
+      "decimals": 18,
+      "logoURI": "https://app.beefy.finance/static/media/beFTM.8e14abf1.svg",
+      "symbol": "beFTM",
+      "chainId": 250
+    },
+    {
+      "address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+      "name": "Multichain Frapped USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
+      "symbol": "multiFUSDT",
+      "chainId": 250
+    },
+    {
+      "address": "0x695921034f0387eac4e11620ee91b1b15a6a09fe",
+      "name": "LayerZero Wrapped Ethereum",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
+      "symbol": "lzWETH",
+      "chainId": 250
+    },
+    {
+      "address": "0xc3bf643799237588b7a6b407b3fc028dd4e037d2",
+      "name": "bb-yv-FTM",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
+      "symbol": "bb-yv-FTM",
+      "chainId": 250
+    },
+    {
+      "address": "0x4f76664105ba7e35dd4904ec70f2042fc17563d9",
+      "name": "Sologenic",
+      "decimals": 15,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/icon_white.png",
+      "symbol": "SOLO",
+      "chainId": 250
+    },
+    {
+      "address": "0x31f3207dd01b02ba3e85b5af5e932092c6b86d3f",
+      "name": "Truth",
+      "decimals": 18,
+      "logoURI": "https://eyeoftruth.io/static/media/TRUTH.png",
+      "symbol": "TRUTH",
+      "chainId": 250
+    },
+    {
+      "address": "0x6c021ae822bea943b2e66552bde1d2696a53fbb7",
+      "name": "Tomb",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/16133/large/tomb_icon_noBG.png?1623055476",
+      "symbol": "TOMB",
+      "chainId": 250
+    },
+    {
+      "address": "0x814c66594a22404e101fecfecac1012d8d75c156",
+      "name": "cLQDR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24931/large/png.png?1649395955",
+      "symbol": "cLQDR",
+      "chainId": 250
+    },
+    {
+      "address": "0xdbe808e1968b0c8978ad7d13255cba8ac659ea0a",
+      "name": "Deliland",
+      "decimals": 18,
+      "logoURI": "https://deliland.io/static/media/deliland-gseed-icon.5bb8f287.png",
+      "symbol": "gSEED",
+      "chainId": 250
+    },
+    {
+      "address": "0x442988091cdc18acb8912cd3fe062cda9233f9dc",
+      "name": "Beets Reaper Boosted fUSDT",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDT.png",
+      "symbol": "bb-rfFUSDT",
+      "chainId": 250
+    },
+    {
+      "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
+      "name": "MAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15264/large/mimatic-red.png?1620281018",
+      "symbol": "multiMAI",
+      "chainId": 250
+    },
+    {
+      "address": "0xf1648c50d2863f780c57849d812b4b7686031a3d",
+      "name": "LayerZero Wrapped Bitcoin",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579",
+      "symbol": "lzWBTC",
+      "chainId": 250
+    },
+    {
+      "address": "0x126ee076da8cc4ffca5cd89bb4a0ebfe6fa09189",
+      "name": "Deliland",
+      "decimals": 9,
+      "logoURI": "https://deliland.io/static/media/EnerG-icon.29c1aed0.png",
+      "symbol": "ENERg",
+      "chainId": 250
+    },
+    {
+      "address": "0xce2fc0bdc18bd6a4d9a725791a3dee33f3a23bb7",
+      "name": "WETH yVault",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/yvETH.png",
+      "symbol": "yvWETH",
+      "chainId": 250
+    },
+    {
+      "address": "0x454d4bae7c2adab588d837aff4db16db19d46a33",
+      "name": "Good Morning FTM",
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/12RsJ9g/GMFTMTOKENfuneral.png",
+      "symbol": "GMFTM",
+      "chainId": 250
+    },
+    {
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "name": "Multichain",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22087/large/1_Wyot-SDGZuxbjdkaOeT2-A.png?1640764238",
+      "symbol": "MULTI",
+      "chainId": 250
+    },
+    {
+      "address": "0xceebde49ec95e21f7ee63c5c6f98cab3519570de",
+      "name": "Wrapped Statera",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13599/large/wsta_logo.png?1610011862",
+      "symbol": "multiwSTA",
+      "chainId": 250
+    },
+    {
+      "address": "0x877e7328292277d11752317420f44d6a61b4cd8e",
+      "name": "Deliland",
+      "decimals": 18,
+      "logoURI": "https://deliland.io/static/media/deliland-sugar-icon.21147744.png",
+      "symbol": "SUGAR",
+      "chainId": 250
+    },
+    {
+      "address": "0x4a13a2cf881f5378def61e430139ed26d843df9a",
+      "name": "BELUGA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13790/large/brand-logo-v2.23e5d279.png",
+      "symbol": "BELUGA",
+      "chainId": 250
+    },
+    {
+      "address": "0xf47f4d59c863c02cbfa3eefe6771b9c9fbe7b978",
+      "name": "Beets Reaper Boosted USD",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USD.png",
+      "symbol": "bb-rf-usd",
+      "chainId": 250
+    },
+    {
+      "address": "0x08d70a47d3f28bbf755ae050a783844b40ae5761",
+      "name": "KELVIN",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/kelvin.png",
+      "symbol": "KELVIN",
+      "chainId": 250
+    },
+    {
+      "address": "0x1d1764f04de29da6b90ffbef372d1a45596c4855",
+      "name": "Mimo Governance",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/16449/large/mimodefi.PNG?1624240539",
+      "symbol": "MIMO",
+      "chainId": 250
+    },
+    {
+      "address": "0x117db78176c8ede4f12fcd29d85cd96b91a4cbbb",
+      "name": "Reaper",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/19133/large/Reaper_Logo.png?1634523828",
+      "symbol": "REAPER",
+      "chainId": 250
+    },
+    {
+      "address": "0xb868b46bcec6595a953e351e6d8459bedef6805e",
+      "name": "Bridged Echelon",
+      "decimals": 18,
+      "logoURI": "https://ftm.guru/icons/ech.svg",
+      "symbol": "bECH",
+      "chainId": 250
+    },
+    {
+      "address": "0x6caa3e5feba1f83ec1d80ea2eaca37c3421c33a8",
+      "name": "Tarot Wrapped inSPIRIT",
+      "decimals": 18,
+      "logoURI": "https://www.tarot.to/assets/images/token-icons/0x6CAa3e5FebA1f83ec1d80EA2EAca37C3421C33A8.png",
+      "symbol": "tinSPIRIT",
+      "chainId": 250
+    },
+    {
+      "address": "0xb280458b3cf0facc33671d52fb0e894447c2539a",
+      "name": "Wrapped sSQUID",
+      "decimals": 18,
+      "logoURI": "https://squid-dao.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F8D3XjPMdP3XKObAlu6Ik%2Fuploads%2Ffrosk9KVgf6mOHtCrfVl%2FwsSQUID.png?alt=media&token=645b04a1-331e-4e27-9450-1aba6ae6b27e",
+      "symbol": "multiwsSQUID",
+      "chainId": 250
+    },
+    {
+      "address": "0x031305e65166c26f0666353c021c563b4a7c9ca2",
+      "name": "Truth",
+      "decimals": 18,
+      "logoURI": "https://eyeoftruth.io/static/media/MAAT.png",
+      "symbol": "MAAT",
+      "chainId": 250
+    },
+    {
+      "address": "0x5427f192137405e6a4143d1c3321359bab2dbd87",
+      "name": "Reaper DAI Crypt",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-DAI%402x.png",
+      "symbol": "rfDAI",
+      "chainId": 250
+    },
+    {
+      "address": "0x3f9c449febb5e8cc452637ace9287dd806f49b86",
+      "name": "Deliland",
+      "decimals": 18,
+      "logoURI": "https://deliland.io/static/media/deliland-ugu-icon.37f99c72.png",
+      "symbol": "UGU",
+      "chainId": 250
+    },
+    {
+      "address": "0x593ae1d34c8bd7587c11d539e4f42bff242c82af",
+      "name": "Luna (Wormhole)",
+      "decimals": 6,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/luna-Wormhole.png",
+      "symbol": "LUNA (Wormhole)",
+      "chainId": 250
+    },
+    {
+      "address": "0x963ffcd14d471e279245ee1570ad64ca78d8e67e",
+      "name": "Reaper wFTM Multi Crypt",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
+      "symbol": "rf-WFTM",
+      "chainId": 250
+    },
+    {
+      "address": "0x0def844ed26409c5c46dda124ec28fb064d90d27",
+      "name": "Coffin Dollar",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/19070/large/icon-cousd.png?1634714399",
+      "symbol": "COUSD",
+      "chainId": 250
+    },
+    {
+      "address": "0xcfc785741dc0e98ad4c9f6394bb9d43cd1ef5179",
+      "name": "Ankr Staked FTM",
+      "decimals": 18,
+      "logoURI": "https://www.ankr.com/_next/static/images/fantom-ankrftm-logo-284acd6f9ef581f726808ee54bb9df98.svg",
+      "symbol": "ankrFTM",
+      "chainId": 250
+    },
+    {
+      "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
+      "name": "Fantom Bomb",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24109/large/logo-blue.png?1646376874",
+      "symbol": "fBOMB",
+      "chainId": 250
+    },
+    {
+      "address": "0xc6c7c01f3608625fe36df2461f30a4904b5da80f",
+      "name": "gxLQDR",
+      "decimals": 18,
+      "logoURI": "https://docs.grim.finance/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Ma1a5XNlzDHkU6_MMBW%2Fuploads%2F7jE5UKYAcWrkGXO0SyW4%2FLQDRredWborder.png?alt=media&token=83475e88-d1ed-45f5-b36d-fa94f9b44a27",
+      "symbol": "gxLQDR",
+      "chainId": 250
+    },
+    {
+      "address": "0xc5e2b037d30a390e62180970b3aa4e91868764cd",
+      "name": "Tarot",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17881/large/tarot-200px.png?1629704943",
+      "symbol": "TAROT",
+      "chainId": 250
+    },
+    {
+      "address": "0x71959b131426fdb7af01de8d7d4149ccaf09f8cc",
+      "name": "Beets BOO Boosted Pool",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-BOO.png",
+      "symbol": "bb-BOO",
+      "chainId": 250
+    },
+    {
+      "address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+      "name": "Multichain USD Coin",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "symbol": "multiUSDC",
+      "chainId": 250
+    },
+    {
+      "address": "0x148c05caf1bb09b5670f00d511718f733c54bc4c",
+      "name": "USDT yVault",
+      "decimals": 6,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/USDT.png",
+      "symbol": "yvUSDT",
+      "chainId": 250
+    },
+    {
+      "address": "0x511d35c52a3c244e7b8bd92c0c297755fbd89212",
+      "name": "Avalanche",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png",
+      "symbol": "AVAX",
+      "chainId": 250
+    },
+    {
+      "address": "0x6e9c4fe1d8509ed2d4219c21fbab232a81b8d4b6",
+      "name": "Deliland",
+      "decimals": 18,
+      "logoURI": "https://deliland.io/static/media/deliland-liggies-icon.32907d3c.png",
+      "symbol": "LIGGIES",
+      "chainId": 250
+    },
+    {
+      "address": "0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286",
+      "name": "FantOHM",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/20021/small/fhm.png",
+      "symbol": "FHM",
+      "chainId": 250
+    },
+    {
+      "address": "0x841fad6eae12c286d1fd18d1d525dffa75c7effe",
+      "name": "Spookyswap",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15223/large/logo_200x200.png?1621992076",
+      "symbol": "BOO",
+      "chainId": 250
+    },
+    {
+      "address": "0x68efc4716507709691d5e7ad9906a44fabcdb1ca",
+      "name": "Mine Empire",
+      "decimals": 18,
+      "logoURI": "https://app.mineempire.io/assets/gem-256x256.png",
+      "symbol": "GEM",
+      "chainId": 250
+    },
+    {
+      "address": "0xb67fa6defce4042070eb1ae1511dcd6dcc6a532e",
+      "name": "Alchemix USD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14114/large/Alchemix_USD.png",
+      "symbol": "alUSD",
+      "chainId": 250
+    },
+    {
+      "address": "0x412a13c109ac30f0db80ad3bd1defd5d0a6c0ac6",
+      "name": "Stader",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20658/large/SD_Token_Logo.png?1684410841",
+      "symbol": "SD",
+      "chainId": 250
+    },
+    {
+      "address": "0xfe7eda5f2c56160d406869a8aa4b2f365d544c7b",
+      "name": "Axelar Wrapped Ethereum",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
+      "symbol": "axlWETH",
+      "chainId": 250
+    },
+    {
+      "address": "0x02838746d9e1413e07ee064fcbada57055417f21",
+      "name": "Granary",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x80bb30d62a16e1f2084deae84dc293531c3ac3a1.png",
+      "symbol": "GRAIN",
+      "chainId": 250
+    },
+    {
+      "address": "0x42538ce99111ea34dc2987b141bd6e9b594752d6",
+      "name": "Beets Yearn Boosted Pool (WBTC)",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-BTC.png",
+      "symbol": "bb-yv-WBTC",
+      "chainId": 250
+    },
+    {
+      "address": "0x7ec94c4327dc757601b4273cd67014d7760be97e",
+      "name": "Grim",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17866/large/83727875.png",
+      "symbol": "GRIM",
+      "chainId": 250
+    },
+    {
+      "address": "0x3b998ba87b11a1c5bc1770de9793b17a0da61561",
+      "name": "Beets Yearn Boosted Pool (USDC)",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDC%402x.png",
+      "symbol": "bb-yv-USDC",
+      "chainId": 250
+    },
+    {
+      "address": "0x59d07a115fe3ffe5db3d52029d43cc0ef5e9ba08",
+      "name": "SUPA Foundation",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22522/large/KmzajETygnMWAKm05ljiI3pc7_JTIdu_H6hhOgaRc-ICj0M9geEpF83iceGbQ6U2PByY3A3jwkHFC0zLEycnplJpUcqb_cl0QV89fPI_h3XdflDh9Sroq22uFfvwQ8lCjl7EFiIKpr-fGbW2ArkJEdPkWL6UJu5DbE6YArcksukEcc_8cpryHjchAdd-imlOugScNPswFZzMqb.jpg?1641970344",
+      "symbol": "SUPA",
+      "chainId": 250
+    },
+    {
+      "address": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+      "name": "Ankr Staked ETH",
+      "decimals": 18,
+      "logoURI": "https://www.ankr.com/_next/static/images/ethereum-ankreth-logo-794cb04ee270a7cb5c8559924aa5211d.png",
+      "symbol": "ankrEth",
+      "chainId": 250
+    },
+    {
+      "address": "0xbd81110596651c1b00b6a7d9d93e8831e227eae9",
+      "name": " Reaper TUSD SCREAM vault ",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/RF-ICON-TUSD2x.png",
+      "symbol": "rf-scTUSD",
+      "chainId": 250
+    },
+    {
+      "address": "0x448d59b4302ab5d2dadf9611bed9457491926c8e",
+      "name": "Axelar Wrapped Bitcoin",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579",
+      "symbol": "axlWBTC",
+      "chainId": 250
+    },
+    {
+      "address": "0x3fd3a0c85b70754efc07ac9ac0cbbdce664865a6",
+      "name": "Equalizer DEX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28231/large/hq_png_icon_file.png?1668572967",
+      "symbol": "EQUAL",
+      "chainId": 250
+    },
+    {
+      "address": "0x9bf30b6544498ad01cc558c3df44e08892d0952d",
+      "name": "Deliland",
+      "decimals": 18,
+      "logoURI": "https://deliland.io/static/media/deliland-gcoil-icon.99f9c11c.png",
+      "symbol": "gcOIL",
+      "chainId": 250
+    },
+    {
+      "address": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
+      "name": "Chainlink",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1547034700",
+      "symbol": "LINK",
+      "chainId": 250
+    },
+    {
+      "address": "0x74b23882a30290451a17c44f4f05243b6b58c76d",
+      "name": "Multichain Wrapped Ethereum",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
+      "symbol": "multiWETH",
+      "chainId": 250
+    },
+    {
+      "address": "0x217934412c0a70e64c8ff0e0fe2e7b7717fddceb",
+      "name": "Deliland",
+      "decimals": 18,
+      "logoURI": "https://deliland.io/static/media/deliland-flour-icon.ae755fe0.png",
+      "symbol": "FLOUR",
+      "chainId": 250
+    },
+    {
+      "address": "0xbf07093ccd6adfc3deb259c557b61e94c1f66945",
+      "name": "BIFI Maxi",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/mooBIFI.png",
+      "symbol": "mooBIFI",
+      "chainId": 250
+    },
+    {
+      "address": "0xab30a4956c7d838234e24f1c3e50082c0607f35f",
+      "name": "sFTMX Granary Crypt",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
+      "symbol": "rf-grainSFTMX",
+      "chainId": 250
+    },
+    {
+      "address": "0x74d1d2a851e339b8cb953716445be7e8abdf92f4",
+      "name": "Staked TAROT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24285/large/xtarot.png?1649993991",
+      "symbol": "xTAROT",
+      "chainId": 250
+    },
+    {
+      "address": "0x2ad402655243203fcfa7dcb62f8a08cc2ba88ae0",
+      "name": "CRE8R DAO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22568/large/cropped-FINALwithbrick-2-1-1.png?1642060468",
+      "symbol": "CRE8R",
+      "chainId": 250
+    },
+    {
+      "address": "0xcde5a11a4acb4ee4c805352cec57e236bdbc3837",
+      "name": "The Fidelio Duetto",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/fidelio-duetto.png",
+      "symbol": "BPT-BEETS-FTM ",
+      "chainId": 250
+    },
+    {
+      "address": "0x00a35fd824c717879bf370e70ac6868b95870dfb",
+      "name": "Iron Bank",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22902/large/ironbank.png?1642872464",
+      "symbol": "IB",
+      "chainId": 250
+    },
+    {
+      "address": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
+      "name": "Binance Coin",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/825/large/binance-coin-logo.png",
+      "symbol": "BNB",
+      "chainId": 250
+    },
+    {
+      "address": "0xa48d959ae2e88f1daa7d5f611e01908106de7598",
+      "name": "Boo MirrorWorld",
+      "decimals": 18,
+      "logoURI": "https://assets.spooky.fi/tokens/xBOO.png",
+      "symbol": "xBOO",
+      "chainId": 250
+    },
+    {
+      "address": "0x8b7007e1d02d8387b7b4bc8c6172598780ae59b2",
+      "name": "fGhost",
+      "decimals": 18,
+      "logoURI": "https://beta.fghost.fi/assets/layout/logo.svg",
+      "symbol": "FGHST",
+      "chainId": 250
+    },
+    {
+      "address": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+      "name": "Multichain Dai",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/dai-128.png",
+      "symbol": "multiDAI",
+      "chainId": 250
+    },
+    {
+      "address": "0x660c6ec76bd83f53263681f83cbeb35042dcd1cc",
+      "name": "Reaper WBTC Crypt",
+      "decimals": 8,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-BTC.png",
+      "symbol": "rfWBTC",
+      "chainId": 250
+    },
+    {
+      "address": "0xb6f07fcd05e90d46b411f4f4f1c0665227bcdd35",
+      "name": "Deliland",
+      "decimals": 18,
+      "logoURI": "https://deliland.io/static/media/deliland-wheat-icon.b6b9fb4e.png",
+      "symbol": "BUSHEL",
+      "chainId": 250
+    },
+    {
+      "address": "0x22a6ac883b2f5007486c0d0ebc520747c0702ad5",
+      "name": "Mor Stablecoin",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18549/large/MOR_logo_icon_black_background_round_200_x_200-01.png?1632364631",
+      "symbol": "MOR",
+      "chainId": 250
+    },
+    {
+      "address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
+      "name": "Frax",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/large/frax_logo.png?1608476506",
+      "symbol": "FRAX",
+      "chainId": 250
+    },
+    {
+      "address": "0x953cd009a490176fceb3a26b9753e6f01645ff28",
+      "name": "xDEUS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28702/large/xDEUS_logo_200x200.png?1673425416",
+      "symbol": "XDEUS",
+      "chainId": 250
+    },
+    {
+      "address": "0x321162cd933e2be498cd2267a90534a804051b11",
+      "name": "Multichain Wrapped Bitcoin",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579",
+      "symbol": "multiWBTC",
+      "chainId": 250
+    },
+    {
+      "address": "0xae75a438b2e0cb8bb01ec1e1e376de11d44477cc",
+      "name": "Sushi",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png?1606986688",
+      "symbol": "SUSHI",
+      "chainId": 250
+    },
+    {
+      "address": "0xa147268f35db4ae3932eabe42af16c36a8b89690",
+      "name": "liHND",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/tvEPzSD.png",
+      "symbol": "liHND",
+      "chainId": 250
+    },
+    {
+      "address": "0xe992beab6659bff447893641a378fbbf031c5bd6",
+      "name": "WigoSwap",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23603/large/wigo.png?1644736374",
+      "symbol": "WIGO",
+      "chainId": 250
+    },
+    {
+      "address": "0xb4aae62a3f10717b9c649ed5ce099d981e5dca8c",
+      "name": "Beets Tarot Boosted Pool",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-t-tarot.svg",
+      "symbol": "bb-t-TAROT",
+      "chainId": 250
+    },
+    {
+      "address": "0xa9a1f2f7407ce27bcef35d04c47e079e7d6d399e",
+      "name": "Beets Reaper Granary Boosted sFTMx",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
+      "symbol": "bb-rf-grSFTMx",
+      "chainId": 250
+    },
+    {
+      "address": "0xc385e76e575b2d71eb877c27dcc1608f77fada99",
+      "name": "Beets Reaper Boosted USDC",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDC%402x.png",
+      "symbol": "bb-rfUSDC",
+      "chainId": 250
+    },
+    {
+      "address": "0x0c9393d08b817a6da19381ed86d03ff64e11f9b0",
+      "name": "DOODLE",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/GGzuFKw.png",
+      "symbol": "DOODLE",
+      "chainId": 250
+    },
+    {
+      "address": "0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b",
+      "name": "Aave",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1601374110",
+      "symbol": "AAVE",
+      "chainId": 250
+    },
+    {
+      "address": "0x70f9fd19f857411b089977e7916c05a0fc477ac9",
+      "name": "Governance ALCX",
+      "decimals": 18,
+      "logoURI": "https://alchemix.fi/images/token-icons/gALCX.svg",
+      "symbol": "gALCX",
+      "chainId": 250
+    },
+    {
+      "address": "0x637ec617c86d24e421328e6caea1d92114892439",
+      "name": "DAI yVault",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/yvDAI.png",
+      "symbol": "yvDAI",
+      "chainId": 250
+    },
+    {
+      "address": "0x12245af2d6d298d98019c15fb1001d8712d27a7d",
+      "name": "Deliland",
+      "decimals": 18,
+      "logoURI": "https://deliland.io/static/media/acre.png",
+      "symbol": "ACRE",
+      "chainId": 250
+    },
+    {
+      "address": "0x6c2a43fd04e7ad9bc2b81523e383c445695b73a1",
+      "name": "Deliland",
+      "decimals": 18,
+      "logoURI": "https://deliland.io/static/media/deliland-brownsugar-icon.c246a550.png",
+      "symbol": "bSUGAR",
+      "chainId": 250
+    },
+    {
+      "address": "0x9879abdea01a879644185341f7af7d8343556b7a",
+      "name": "TrueUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/3449/large/tusd.png?1618395665",
+      "symbol": "TUSD",
+      "chainId": 250
+    },
+    {
+      "address": "0xa0051ab2c3eb7f17758428b02a07cf72eb0ef1a3",
+      "name": "Beets Reaper Boosted wETH",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-ETH.png",
+      "symbol": "bb-rfWETH",
+      "chainId": 250
+    },
+    {
+      "address": "0x05848b832e872d9edd84ac5718d58f21fd9c9649",
+      "name": "Steak Token",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15416/large/steakbank.PNG?1620773943",
+      "symbol": "STEAK",
+      "chainId": 250
+    },
+    {
+      "address": "0xe4a54b6a175cf3f6d7a5e8ab7544c3e6e364dbf9",
+      "name": "Reaper WFTM Crypt",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
+      "symbol": "rfWFTM",
+      "chainId": 250
+    },
+    {
+      "address": "0x11223344d5b43ec0930af1236f4cf67bf7d81217",
+      "name": "Quantum ",
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/quantumprotocol_32.png",
+      "symbol": "QTM",
+      "chainId": 250
+    },
+    {
+      "address": "0x496e1693a7b162c4f0cd6a1792679cc48ecbcc8d",
+      "name": "Truth",
+      "decimals": 18,
+      "logoURI": "https://eyeoftruth.io/static/media/eye.7cccf58f.png",
+      "symbol": "EYE",
+      "chainId": 250
+    },
+    {
+      "address": "0x2ff1552dd09f87d6774229ee5eca60cf570ae291",
+      "name": "Beets Yearn Boosted Pool (DAI)",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-DAI%402x.png",
+      "symbol": "bb-yv-DAI",
+      "chainId": 250
+    },
+    {
+      "address": "0xb715f8dce2f0e9b894c753711bd55ee3c04dca4e",
+      "name": "ShibaPoconk",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29080/large/conk.png?1676440614",
+      "symbol": "CONK",
+      "chainId": 250
+    },
+    {
+      "address": "0xe3e0eba90185e7292b9ca92c7409cdef504f9d07",
+      "name": "FUCK",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/VO0SnyG.png",
+      "symbol": "FUCK",
+      "chainId": 250
+    },
+    {
+      "address": "0x685056d3a4e574b163d0fa05a78f1b0b3aa04a80",
+      "name": "Beets Reaper Boosted DAI",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-DAI%402x.png",
+      "symbol": "bb-rfDAI",
+      "chainId": 250
+    },
+    {
+      "address": "0x1b6382dbdea11d97f24495c9a90b7c88469134a4",
+      "name": "Axelar USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "symbol": "axlUSDC",
+      "chainId": 250
+    },
+    {
+      "address": "0x77128dfdd0ac859b33f44050c6fa272f34872b5e",
+      "name": "Creditum",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22503/large/Creditum.png?1641955520",
+      "symbol": "CREDIT",
+      "chainId": 250
+    },
+    {
+      "address": "0xe55e19fb4f2d85af758950957714292dac1e25b2",
+      "name": "Synapse",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18024/large/syn.png?1635002049",
+      "symbol": "SYN",
+      "chainId": 250
+    },
+    {
+      "address": "0x44165fad0b7ea0d54d8856765d936d7026f9e2f2",
+      "name": "Beets Yearn Boosted Pool (WETH)",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-ETH.png",
+      "symbol": "bb-yv-WETH",
+      "chainId": 250
+    },
+    {
+      "address": "0x2a5062d22adcfaafbd5c541d4da82e4b450d4212",
+      "name": "Keep3r",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12966/large/kp3r_logo.jpg",
+      "symbol": "KP3R",
+      "chainId": 250
+    },
+    {
+      "address": "0x888ef71766ca594ded1f0fa3ae64ed2941740a20",
+      "name": "Solidly",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23961/large/Solidly-O.png?1645797138",
+      "symbol": "SOLID",
+      "chainId": 250
+    },
+    {
+      "address": "0xe2d27f06f63d98b8e11b38b5b08a75d0c8dd62b9",
+      "name": "TerraUSD (Multichain) ",
+      "decimals": 6,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/terraUSD-Multichain%402x.png",
+      "symbol": "UST (Multichain)",
+      "chainId": 250
+    },
+    {
+      "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+      "name": "Hundred Finance",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18445/large/hnd.PNG?1632054703",
+      "symbol": "HND",
+      "chainId": 250
+    },
+    {
+      "address": "0xd6070ae98b8069de6b494332d1a1a81b6179d960",
+      "name": "Beefy.Finance",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png",
+      "symbol": "multiBIFI",
+      "chainId": 250
+    },
+    {
+      "address": "0x524cabe5b2f66cbd6f6b08def086f18f8dde033a",
+      "name": "Biconomy Token",
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/b37Gktw/BICO-Ticker-01.png",
+      "symbol": "BICO",
+      "chainId": 250
+    },
+    {
+      "address": "0x7473c63e0247fe25f1388b5eb3dccc412d7a6343",
+      "name": "Deliland",
+      "decimals": 18,
+      "logoURI": "https://deliland.io/static/media/deliland-wholeflour-icon.32c210f5.png",
+      "symbol": "wFLOUR",
+      "chainId": 250
+    },
+    {
+      "address": "0x85dec8c4b2680793661bca91a8f129607571863d",
+      "name": "Paint Swap",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18579/large/sDYeBj9T_400x400.png?1632490419",
+      "symbol": "BRUSH",
+      "chainId": 250
+    },
+    {
+      "address": "0x5ddb92a5340fd0ead3987d3661afcd6104c3b757",
+      "name": "bb-yv-USD",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USD.png",
+      "symbol": "bb-yv-USD",
+      "chainId": 250
+    },
+    {
+      "address": "0xfcef8a994209d6916eb2c86cdd2afd60aa6f54b1",
+      "name": "Fresh BEETS",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/fBEETS.png",
+      "symbol": "fBEETS",
+      "chainId": 250
+    },
+    {
+      "address": "0x28a92dde19d9989f39a49905d7c9c2fac7799bdf",
+      "name": "LayerZero USD Coin",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "symbol": "lzUSDC",
+      "chainId": 250
+    },
+    {
+      "address": "0x0ddb88e14494546d07fcd94c3f0ef6d3296b1cd7",
+      "name": "SummitToken",
+      "decimals": 18,
+      "logoURI": "https://ftm.summitdefi.com/images/tokens/SUMMIT.png",
+      "symbol": "SUMMIT",
+      "chainId": 250
+    },
+    {
+      "address": "0xd31fcd1f7ba190dbc75354046f6024a9b86014d7",
+      "name": "Solidex",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23855/large/photo_2022-02-23_09.01.21.jpeg",
+      "symbol": "SEX",
+      "chainId": 250
+    },
+    {
+      "address": "0x9049198f6b21acf1e050cfcf36a6879a07b0bbe4",
+      "name": "Strudel BTC ",
+      "decimals": 18,
+      "logoURI": "https://strudel.finance/images/logo-header.svg",
+      "symbol": "multiVBTC",
+      "chainId": 250
+    },
+    {
+      "address": "0x2b9d3f168905067d88d93f094c938bacee02b0cb",
+      "name": "TerraUSD (Axelar)",
+      "decimals": 6,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/terraUSD-Axelar%402x.png",
+      "symbol": "UST (Axelar)",
+      "chainId": 250
+    },
+    {
+      "address": "0x95dd59343a893637be1c3228060ee6afbf6f0730",
+      "name": "Luna (Multichain)",
+      "decimals": 6,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/luna-Multichain.png",
+      "symbol": "LUNA (Multichain)",
+      "chainId": 250
+    },
+    {
+      "address": "0x582423c10c9e83387a96d00a69ba3d11ee47b7b5",
+      "name": "OneRing",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23273/large/ring.png?1648278585",
+      "symbol": "RING",
+      "chainId": 250
+    },
+    {
+      "address": "0xc60d7067dfbc6f2caf30523a064f416a5af52963",
+      "name": "Retreeb",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17710/large/reteeb.PNG?1629081700",
+      "symbol": "TREEB",
+      "chainId": 250
+    },
+    {
+      "address": "0xddc0385169797937066bbd8ef409b5b3c0dfeb52",
+      "name": "Wonderful Memories",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22392/large/wMEMO.png?1665832927",
+      "symbol": "multiwMEMO",
+      "chainId": 250
+    },
+    {
+      "address": "0x38ce1fbc9b1eb4c2ed19268153a4280e522f0e6f",
+      "name": "Knoble Knight",
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/85bn615Z/logo192.png",
+      "symbol": "KK",
+      "chainId": 250
+    },
+    {
+      "address": "0xc5b29d59d0b4717aa0dd8d11597d9fd3a05d86bb",
+      "name": "FTM Granary Vault",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
+      "symbol": "rf-grain-FTM",
+      "chainId": 250
+    },
+    {
+      "address": "0x5deb27e51dbeef691ba1175a2e563870499c2acb",
+      "name": "MCLB",
+      "decimals": 20,
+      "logoURI": "https://assets.coingecko.com/coins/images/8052/large/milleniumclub-logo.png",
+      "symbol": "MCLB",
+      "chainId": 250
+    },
+    {
+      "address": "0xb5e4d17ffd9d0dce46d290750dad5f9437b5a16b",
+      "name": "USDC Solana",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/usdc-sol2-glass.png",
+      "symbol": "asUSDC",
+      "chainId": 250
+    },
+    {
+      "address": "0xc09a82ad5075b3067d80f54f05e1e22229699cc1",
+      "name": "Wrapped BOMB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24109/large/logo-blue.png?1646376874",
+      "symbol": "wBOMB",
+      "chainId": 250
+    },
+    {
+      "address": "0x3dc57b391262e3aae37a08d91241f9ba9d58b570",
+      "name": "Yoshi.exchange",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/19355/large/YOSHI_200.png?1641569394",
+      "symbol": "YOSHI",
+      "chainId": 250
+    },
+    {
+      "address": "0x58a547ed09684ac2a688610d5caf8e8968b51908",
+      "name": "Balancer",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11683/large/Balancer.png?1592792958",
+      "symbol": "multiBAL",
+      "chainId": 250
+    },
+    {
+      "address": "0x55e0499d268858a5e804d7864dc2a6b4ef194c63",
+      "name": "Beets Reaper Granary Boosted FTM",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
+      "symbol": "bb-rf-grFTM",
+      "chainId": 250
+    },
+    {
+      "address": "0x49894fcc07233957c35462cfc3418ef0cc26129f",
+      "name": "FANG Token",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18982/large/-ywrkEbd.png?1634097006",
+      "symbol": "FANG",
+      "chainId": 250
+    },
+    {
+      "address": "0x2b6850bf31874d96a21ed4dc7c6415b9640be2a4",
+      "name": "Wrapped PlasmaGunk",
+      "decimals": 9,
+      "logoURI": "https://www.fantomon.net/plasmagunk.png",
+      "symbol": "WPGUNK",
+      "chainId": 250
+    },
+    {
+      "address": "0xd8321aa83fb0a4ecd6348d4577431310a6e0814d",
+      "name": "Geist Finance",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18832/large/GEIST-token.png",
+      "symbol": "GEIST",
+      "chainId": 250
+    },
+    {
+      "address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a",
+      "name": "Frax Share",
+      "decimals": 18,
+      "logoURI": "https://frax.imgix.net/tokens/fantom-fxs.png",
+      "symbol": "FXS",
+      "chainId": 250
+    },
+    {
+      "address": "0x0a77866c01429941bfc7854c0c0675db1015218b",
+      "name": "Grim EVO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23329/large/image_%286%29.png?1643851996",
+      "symbol": "GRIM EVO",
+      "chainId": 250
+    },
+    {
+      "address": "0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37",
+      "name": "Tomb Shares",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/16405/large/crypto_tomb_share.bf1a6c52.png?1623917558",
+      "symbol": "TSHARE",
+      "chainId": 250
+    },
+    {
+      "address": "0x8183c18887ac4386ce09dbdf5df7c398dacb2b5a",
+      "name": "Secure",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/22414/large/sFtYBwVh_400x400.png?1641804282",
+      "symbol": "SCR",
+      "chainId": 250
+    },
+    {
+      "address": "0x3b57f3feaaf1e8254ec680275ee6e7727c7413c7",
+      "name": "Exodia",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/19701/large/617737fcd168dc5f4c2ee90f_cgtoken.png",
+      "symbol": "EXOD",
+      "chainId": 250
+    },
+    {
+      "address": "0x7cf76bccfa5d3340d42f08351552f5a59dc6089c",
+      "name": "Beets Yearn Boosted Pool (FRAX)",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-Frax.png",
+      "symbol": "bb-yv-FRAX",
+      "chainId": 250
+    },
+    {
+      "address": "0x2fcdcf0172376764c0462dde4165c6f08f920135",
+      "name": "Truth",
+      "decimals": 18,
+      "logoURI": "https://eyeoftruth.io/static/media/MYTH.png",
+      "symbol": "MYTH",
+      "chainId": 250
+    },
+    {
+      "address": "0x248cb87dda803028dfead98101c9465a2fbda0d4",
+      "name": "Charm Token",
+      "decimals": 18,
+      "logoURI": "https://www.spartacadabra.money/static/media/CharmLogo01.cf3ba6a4.png",
+      "symbol": "CHARM",
+      "chainId": 250
+    },
+    {
+      "address": "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
+      "name": "yearn.finance",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11849/large/yfi-192x192.png?1598325330",
+      "symbol": "YFI",
+      "chainId": 250
+    },
+    {
+      "address": "0x0dec85e74a92c52b7f708c4b10207d9560cefaf0",
+      "name": "FTM yVault",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/WFTM-+120px.png",
+      "symbol": "yvFTM",
+      "chainId": 250
+    },
+    {
+      "address": "0x16e4399fa9ba6e58f12bf2d2bc35f8bde8a9a4ab",
+      "name": "Reaper DAI Multi Crypt",
+      "decimals": 18,
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-DAI%402x.png",
+      "symbol": "rf-DAI",
+      "chainId": 250
+    },
+    {
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "Fantom",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4001/large/Fantom.png?1558015016",
+      "symbol": "FTM",
+      "chainId": 250
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
-  "version": { "major": 0, "minor": 4, "patch": 2 }
+  "version": {
+    "major": 0,
+    "minor": 4,
+    "patch": 2
+  }
 }
