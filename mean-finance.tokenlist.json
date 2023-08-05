@@ -1601,6 +1601,14 @@
       "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
       "decimals": 18,
       "logoURI": "ipfs://QmSgafFevZRFEvko3g4G1LU3EWNGTK6Bp5FndLGpnRJsFe"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "GMD",
+      "name": "GMD",
+      "address": "0x4945970efeec98d393b4b979b9be265a3ae28a8b",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSFUgScqFZfJLjB2PQ1S4EUrGXfQeiUaCWTYPYf7ntbKc"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
