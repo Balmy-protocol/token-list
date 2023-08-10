@@ -3452,6 +3452,14 @@
       "address": "0x4945970efeec98d393b4b979b9be265a3ae28a8b",
       "decimals": 18,
       "logoURI": "ipfs://QmSFUgScqFZfJLjB2PQ1S4EUrGXfQeiUaCWTYPYf7ntbKc"
+    },
+    {
+      "chainId": 10,
+      "symbol": "MAI",
+      "name": "Mai Stablecoin",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "ipfs://QmfKQduuVL57UYVuWk9cfD138xz9Y8o5sGTHBjuQ7gJbj5"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
