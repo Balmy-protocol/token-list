@@ -1503,8 +1503,8 @@
     },
     {
       "chainId": 10,
-      "symbol": "miMATIC",
-      "name": "miMATIC",
+      "symbol": "MAI",
+      "name": "Mai Stablecoin",
       "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
       "decimals": 18,
       "logoURI": "ipfs://QmTGmjQ7bgCxyyCqfeZPGCDE3LJogAFXxAzkdQoqZHwCdR"
@@ -3436,6 +3436,22 @@
       "logoURI": "https://assets.coingecko.com/coins/images/4001/large/Fantom.png?1558015016",
       "symbol": "FTM",
       "chainId": 250
+    },
+    {
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "Fantom",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4001/large/Fantom.png?1558015016",
+      "symbol": "FTM",
+      "chainId": 250
+    },
+    {
+      "chainId": 42161,
+      "symbol": "GMD",
+      "name": "GMD",
+      "address": "0x4945970efeec98d393b4b979b9be265a3ae28a8b",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSFUgScqFZfJLjB2PQ1S4EUrGXfQeiUaCWTYPYf7ntbKc"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
