@@ -3452,6 +3452,14 @@
       "address": "0x4945970efeec98d393b4b979b9be265a3ae28a8b",
       "decimals": 18,
       "logoURI": "ipfs://QmSFUgScqFZfJLjB2PQ1S4EUrGXfQeiUaCWTYPYf7ntbKc"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "GRAI",
+      "name": "Grai",
+      "address": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
+      "decimals": 18,
+      "logoURI": "ipfs://QmZNq5M9osUng79gZUhPN1qVQbtQwiB8F4S4kJp6aCUMbg"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
