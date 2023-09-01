@@ -3460,6 +3460,14 @@
       "address": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
       "decimals": 18,
       "logoURI": "ipfs://QmZNq5M9osUng79gZUhPN1qVQbtQwiB8F4S4kJp6aCUMbg"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "AURA",
+      "name": "Aura",
+      "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/thumb/logo.png?1654784187"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
