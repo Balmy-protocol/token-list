@@ -3508,6 +3508,14 @@
       "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
       "decimals": 18,
       "logoURI": "ipfs://QmauPCFRzp5JxiZpWM2seEYUppWJc9aeEeLuGMUSsqNkV1"
+    },
+    {
+      "chainId": 56,
+      "symbol": "NEXT",
+      "name": "Connext",
+      "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
+      "decimals": 18,
+      "logoURI": "ipfs://QmauPCFRzp5JxiZpWM2seEYUppWJc9aeEeLuGMUSsqNkV1"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
