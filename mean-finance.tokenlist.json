@@ -3470,10 +3470,18 @@
       "logoURI": "https://assets.coingecko.com/coins/images/25942/thumb/logo.png?1654784187"
     },
     {
-      "chainId": 42161,
+      "chainId": 1,
       "symbol": "NEXT",
       "name": "Connext",
       "address": "0xFE67A4450907459c3e1FFf623aA927dD4e28c67a",
+      "decimals": 18,
+      "logoURI": "ipfs://QmauPCFRzp5JxiZpWM2seEYUppWJc9aeEeLuGMUSsqNkV1"
+    },
+    {
+      "chainId": 42161,
+      "symbol": "NEXT",
+      "name": "Connext",
+      "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
       "decimals": 18,
       "logoURI": "ipfs://QmauPCFRzp5JxiZpWM2seEYUppWJc9aeEeLuGMUSsqNkV1"
     },
@@ -3481,7 +3489,7 @@
       "chainId": 10,
       "symbol": "NEXT",
       "name": "Connext",
-      "address": "0xFE67A4450907459c3e1FFf623aA927dD4e28c67a",
+      "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
       "decimals": 18,
       "logoURI": "ipfs://QmauPCFRzp5JxiZpWM2seEYUppWJc9aeEeLuGMUSsqNkV1"
     },
@@ -3489,7 +3497,7 @@
       "chainId": 137,
       "symbol": "NEXT",
       "name": "Connext",
-      "address": "0xFE67A4450907459c3e1FFf623aA927dD4e28c67a",
+      "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
       "decimals": 18,
       "logoURI": "ipfs://QmauPCFRzp5JxiZpWM2seEYUppWJc9aeEeLuGMUSsqNkV1"
     },
@@ -3497,7 +3505,7 @@
       "chainId": 100,
       "symbol": "NEXT",
       "name": "Connext",
-      "address": "0xFE67A4450907459c3e1FFf623aA927dD4e28c67a",
+      "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
       "decimals": 18,
       "logoURI": "ipfs://QmauPCFRzp5JxiZpWM2seEYUppWJc9aeEeLuGMUSsqNkV1"
     }
