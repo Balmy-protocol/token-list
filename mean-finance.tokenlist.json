@@ -191,7 +191,7 @@
       "name": "Bridged USDC",
       "decimals": 6,
       "symbol": "USDC.e",
-      "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
       "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
       "chainId": 10,
       "tags": []
@@ -200,7 +200,7 @@
       "name": "USD Coin",
       "decimals": 6,
       "symbol": "USDC",
-      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
       "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
       "chainId": 10,
       "tags": []
