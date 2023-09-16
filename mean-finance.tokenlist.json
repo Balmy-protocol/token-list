@@ -1007,15 +1007,6 @@
       "chainId": 42161
     },
     {
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "decimals": 6,
-      "tags": [],
-      "logoURI": "ipfs://Qme7nin6zU5FjsvBtjvs4pJkEGyqrQKCuh9Eo66AGqapL2",
-      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
-      "chainId": 10
-    },
-    {
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
