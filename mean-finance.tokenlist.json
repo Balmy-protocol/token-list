@@ -3542,6 +3542,14 @@
       "address": "0xc1411567D2670E24D9c4Daaa7CdA95686E1250Aa",
       "decimals": 18,
       "logoURI": "ipfs://QmQaKNE1iQ3KkHVV9N5WgkKLqw689Mb3SGPMnJTgwDwP5g"
+    },
+    {
+      "chainId": 30,
+      "symbol": "ZUSD",
+      "name": "ZUSD Stablecoin",
+      "address": "0xDb107FA69E33f05180a4C2CE9C2e7Cb481645c2D",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUcvWCcRwAsXT7hwWomTgXVgxuaScMn8myY4jhfEVvcnz"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
