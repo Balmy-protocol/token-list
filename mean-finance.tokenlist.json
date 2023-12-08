@@ -3550,6 +3550,14 @@
       "address": "0xDb107FA69E33f05180a4C2CE9C2e7Cb481645c2D",
       "decimals": 18,
       "logoURI": "ipfs://QmUcvWCcRwAsXT7hwWomTgXVgxuaScMn8myY4jhfEVvcnz"
+    },
+    {
+      "chainId": 137,
+      "symbol": "EURe",
+      "name": "Monerium EUR emoney",
+      "address": "0x18ec0a6e18e5bc3784fdd3a3634b31245ab704f6",
+      "decimals": 18,
+      "logoURI": "https://monerium.com/tokens/eur.svg"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
