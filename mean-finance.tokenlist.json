@@ -1312,6 +1312,14 @@
       "logoURI": "ipfs://QmXN15gTAC6Su4p74HXWCg8wvfqYrSWaPa1Qk3AAt9pDWH"
     },
     {
+      "chainId": 1284,
+      "address": "0xca01a1d0993565291051daff390892518acfad3a",
+      "name": "Axelar Wrapped USDC",
+      "symbol": "axlUSDC",
+      "decimals": 6,
+      "logoURI": "ipfs://QmXN15gTAC6Su4p74HXWCg8wvfqYrSWaPa1Qk3AAt9pDWH"
+    },
+    {
       "chainId": 42161,
       "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
       "name": "VelaToken",
