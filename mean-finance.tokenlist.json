@@ -1304,6 +1304,14 @@
       "logoURI": "ipfs://QmZC7Kxmq2MLXLa6dNSeupjya4FU8UzE7KSc1DrYzp2Fzp"
     },
     {
+      "chainId": 1284,
+      "address": "0xffffffff7d2b0b761af01ca8e25242976ac0ad7d",
+      "name": "xcUSDC",
+      "symbol": "xcUSDC",
+      "decimals": 6,
+      "logoURI": "ipfs://QmXN15gTAC6Su4p74HXWCg8wvfqYrSWaPa1Qk3AAt9pDWH"
+    },
+    {
       "chainId": 42161,
       "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
       "name": "VelaToken",
