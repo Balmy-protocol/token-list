@@ -3574,6 +3574,14 @@
       "address": "0x18ec0a6e18e5bc3784fdd3a3634b31245ab704f6",
       "decimals": 18,
       "logoURI": "https://monerium.com/tokens/eur.svg"
+    },
+    {
+      "chainId": 1284,
+      "symbol": "WELL",
+      "name": "Moonwell",
+      "address": "0x511ab53f793683763e5a8829738301368a2411e3",
+      "decimals": 18,
+      "logoURI": "ipfs://QmcWohKeJmBPUZ9AGESLK7kPkwC4JUKFBLv1BQ4z1N4UnW"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
