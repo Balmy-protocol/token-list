@@ -1361,19 +1361,19 @@
     },
     {
       "chainId": 30,
-      "symbol": "MYNT",
-      "name": "Sovryn Mynt",
-      "address": "0x2e6b1d146064613e8f521eb3c6e65070af964ebb",
+      "symbol": "USDRIF",
+      "name": "USDRIF",
+      "address": "0x3A15461d8AE0f0Fb5fA2629e9dA7D66A794a6E37",
       "decimals": 18,
-      "logoURI": "ipfs://Qme32pDGGFb1njJX6ySgVZy3ndMHrNy8YwmeYJ17YAAgjF"
+      "logoURI": "https://rifonchain.com/wp-content/uploads/2023/08/USDRIF-2.svg"
     },
     {
       "chainId": 30,
-      "symbol": "BITP",
-      "name": "BitPRO",
-      "address": "0x440cd83c160de5c96ddb20246815ea44c7abbca8",
+      "symbol": "MYNT",
+      "name": "Mynt",
+      "address": "0x2e6b1d146064613e8f521eb3c6e65070af964ebb",
       "decimals": 18,
-      "logoURI": "ipfs://QmQyaXiukFKXVCZhEYfYhotNtR1BZmjuC5LUHvKJuHYwow"
+      "logoURI": "ipfs://Qme32pDGGFb1njJX6ySgVZy3ndMHrNy8YwmeYJ17YAAgjF"
     },
     {
       "chainId": 30,
@@ -1394,7 +1394,7 @@
     {
       "chainId": 30,
       "symbol": "MOC",
-      "name": "MOC",
+      "name": "Money on Chain",
       "address": "0x9ac7fe28967b30e3a4e6e03286d715b42b453d10",
       "decimals": 18,
       "logoURI": "ipfs://QmW9EMpHKY7uTdKivALXBcLNiH1LLAZbz2NoQenBxJeM8S"
@@ -1429,15 +1429,23 @@
       "name": "rUSDT",
       "address": "0xef213441a85df4d7acbdae0cf78004e1e486bb96",
       "decimals": 18,
-      "logoURI": "ipfs://QmRjAgrnBcnJWJqUWDvKMqHHmwSKLS8bhpuRMUqnjRV6ZC"
+      "logoURI": "ipfs://QmP2rfXa8kZRbdk5i9CJtW85FJNJj8B4JdDccS3jyLBjDv"
     },
     {
       "chainId": 30,
       "symbol": "SOV",
-      "name": "Sovryn Token",
+      "name": "Sovryn",
       "address": "0xefc78fc7d48b64958315949279ba181c2114abbd",
       "decimals": 18,
       "logoURI": "ipfs://QmUpdb1zxtB2kUSjR1Qs1QMFPsSeZNkL21fMzGUfdjkXQA"
+    },
+    {
+      "chainId": 30,
+      "symbol": "BPRO",
+      "name": "BitPRO",
+      "address": "0x440cd83c160de5c96ddb20246815ea44c7abbca8",
+      "decimals": 18,
+      "logoURI": "ipfs://QmYEzpfgtGbScgRmf3ihMsRfgWhPW8pgcNq3PHW7YeQJqc"
     },
     {
       "chainId": 10,
