@@ -1735,14 +1735,7 @@
       "symbol": "sFTMx",
       "chainId": 250
     },
-    {
-      "address": "0x49769fe4c796b2775d2e44982cca8cdae36f6671",
-      "name": "Beets Tarot Boosted Pool (tinSPIRIT)",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-tinspirit.svg",
-      "symbol": "bb-tinSPIRIT",
-      "chainId": 250
-    },
+
     {
       "address": "0x91a40c733c97a6e1bf876eaf9ed8c08102eb491f",
       "name": "LayerZero Dai",
@@ -1791,14 +1784,7 @@
       "symbol": "xtinSPIRIT",
       "chainId": 250
     },
-    {
-      "address": "0xfe0004ca84bac1d9cf24a3270bf70be7e68e43ac",
-      "name": "Beets Yearn Boosted Pool (fUSDT)",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDT.png",
-      "symbol": "bb-yv-fUSDT",
-      "chainId": 250
-    },
+
     {
       "address": "0x1c1d786f88eaf8fd1e0939757520bec1413310fe",
       "name": "Imp",
@@ -1807,14 +1793,7 @@
       "symbol": "IMP",
       "chainId": 250
     },
-    {
-      "address": "0xa8bcdca345e61bad9bb539933a4009f7a6f4b7ea",
-      "name": "Beets Reaper Boosted WFTM",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
-      "symbol": "bb-rfWFTM",
-      "chainId": 250
-    },
+
     {
       "address": "0x84f8d24231dfbbfae7f39415cd09c8f467729fc8",
       "name": "Cosmic Cash",
@@ -1911,14 +1890,7 @@
       "symbol": "CRV",
       "chainId": 250
     },
-    {
-      "address": "0x230112fa4b07234769fc92bd616c8c77f4fe0e53",
-      "name": "Beets Tarot Boosted Pool (MAI)",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-t-mai.svg",
-      "symbol": "bb-t-MAI",
-      "chainId": 250
-    },
+
     {
       "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
       "name": "old _DEI",
@@ -1927,14 +1899,7 @@
       "symbol": "old_DEI",
       "chainId": 250
     },
-    {
-      "address": "0x654def39262548cc958d07c82622e23c52411c82",
-      "name": "Beets Reaper Boosted USDC",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDC%402x.png",
-      "symbol": "bb-rfUSDC",
-      "chainId": 250
-    },
+
     {
       "address": "0x953e94caf91a1e32337d0548b9274f337920edfa",
       "name": "USDV",
@@ -1991,14 +1956,7 @@
       "symbol": "ICE",
       "chainId": 250
     },
-    {
-      "address": "0x92502cd8e00f5b8e737b2ba203fdd7cd27b23c8f",
-      "name": "Beets Reaper Boosted wFTM",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
-      "symbol": "bb-rfWFTM",
-      "chainId": 250
-    },
+
     {
       "address": "0xde1e704dae0b4051e80dabb26ab6ad6c12262da0",
       "name": "DEI",
@@ -2135,14 +2093,7 @@
       "symbol": "rf-fUSDT",
       "chainId": 250
     },
-    {
-      "address": "0xb85a3fc39993b2e7e6874b8700b436c212a00516",
-      "name": "Beets Reaper Boosted Pool (TUSD)",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-rr-TUSD.png",
-      "symbol": "bb-rf-TUSD",
-      "chainId": 250
-    },
+
     {
       "address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
       "name": "DEUS Finance",
@@ -2231,14 +2182,7 @@
       "symbol": "multiSPELL",
       "chainId": 250
     },
-    {
-      "address": "0x3c1420df122ac809b9d1ba77906f833764d64501",
-      "name": "Beets Reaper Boosted wBTC",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-BTC.png",
-      "symbol": "bb-rfWBTC",
-      "chainId": 250
-    },
+
     {
       "address": "0xc052627bc73117d2cb3569f133419550156bdfa1",
       "name": "Reaper wETH Multi Crypt",
@@ -2399,14 +2343,7 @@
       "symbol": "gSEED",
       "chainId": 250
     },
-    {
-      "address": "0x442988091cdc18acb8912cd3fe062cda9233f9dc",
-      "name": "Beets Reaper Boosted fUSDT",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDT.png",
-      "symbol": "bb-rfFUSDT",
-      "chainId": 250
-    },
+
     {
       "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
       "name": "MAI",
@@ -2479,14 +2416,7 @@
       "symbol": "BELUGA",
       "chainId": 250
     },
-    {
-      "address": "0xf47f4d59c863c02cbfa3eefe6771b9c9fbe7b978",
-      "name": "Beets Reaper Boosted USD",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USD.png",
-      "symbol": "bb-rf-usd",
-      "chainId": 250
-    },
+
     {
       "address": "0x08d70a47d3f28bbf755ae050a783844b40ae5761",
       "name": "KELVIN",
@@ -2615,14 +2545,7 @@
       "symbol": "TAROT",
       "chainId": 250
     },
-    {
-      "address": "0x71959b131426fdb7af01de8d7d4149ccaf09f8cc",
-      "name": "Beets BOO Boosted Pool",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-BOO.png",
-      "symbol": "bb-BOO",
-      "chainId": 250
-    },
+
     {
       "address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
       "name": "Multichain USD Coin",
@@ -2711,14 +2634,7 @@
       "symbol": "GRAIN",
       "chainId": 250
     },
-    {
-      "address": "0x42538ce99111ea34dc2987b141bd6e9b594752d6",
-      "name": "Beets Yearn Boosted Pool (WBTC)",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-BTC.png",
-      "symbol": "bb-yv-WBTC",
-      "chainId": 250
-    },
+
     {
       "address": "0x7ec94c4327dc757601b4273cd67014d7760be97e",
       "name": "Grim",
@@ -2727,14 +2643,7 @@
       "symbol": "GRIM",
       "chainId": 250
     },
-    {
-      "address": "0x3b998ba87b11a1c5bc1770de9793b17a0da61561",
-      "name": "Beets Yearn Boosted Pool (USDC)",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDC%402x.png",
-      "symbol": "bb-yv-USDC",
-      "chainId": 250
-    },
+
     {
       "address": "0x59d07a115fe3ffe5db3d52029d43cc0ef5e9ba08",
       "name": "SUPA Foundation",
@@ -2959,30 +2868,7 @@
       "symbol": "WIGO",
       "chainId": 250
     },
-    {
-      "address": "0xb4aae62a3f10717b9c649ed5ce099d981e5dca8c",
-      "name": "Beets Tarot Boosted Pool",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-t-tarot.svg",
-      "symbol": "bb-t-TAROT",
-      "chainId": 250
-    },
-    {
-      "address": "0xa9a1f2f7407ce27bcef35d04c47e079e7d6d399e",
-      "name": "Beets Reaper Granary Boosted sFTMx",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
-      "symbol": "bb-rf-grSFTMx",
-      "chainId": 250
-    },
-    {
-      "address": "0xc385e76e575b2d71eb877c27dcc1608f77fada99",
-      "name": "Beets Reaper Boosted USDC",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDC%402x.png",
-      "symbol": "bb-rfUSDC",
-      "chainId": 250
-    },
+
     {
       "address": "0x0c9393d08b817a6da19381ed86d03ff64e11f9b0",
       "name": "DOODLE",
@@ -3039,14 +2925,7 @@
       "symbol": "TUSD",
       "chainId": 250
     },
-    {
-      "address": "0xa0051ab2c3eb7f17758428b02a07cf72eb0ef1a3",
-      "name": "Beets Reaper Boosted wETH",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-ETH.png",
-      "symbol": "bb-rfWETH",
-      "chainId": 250
-    },
+
     {
       "address": "0x05848b832e872d9edd84ac5718d58f21fd9c9649",
       "name": "Steak Token",
@@ -3079,14 +2958,7 @@
       "symbol": "EYE",
       "chainId": 250
     },
-    {
-      "address": "0x2ff1552dd09f87d6774229ee5eca60cf570ae291",
-      "name": "Beets Yearn Boosted Pool (DAI)",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-DAI%402x.png",
-      "symbol": "bb-yv-DAI",
-      "chainId": 250
-    },
+
     {
       "address": "0xb715f8dce2f0e9b894c753711bd55ee3c04dca4e",
       "name": "ShibaPoconk",
@@ -3103,14 +2975,7 @@
       "symbol": "FUCK",
       "chainId": 250
     },
-    {
-      "address": "0x685056d3a4e574b163d0fa05a78f1b0b3aa04a80",
-      "name": "Beets Reaper Boosted DAI",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-DAI%402x.png",
-      "symbol": "bb-rfDAI",
-      "chainId": 250
-    },
+
     {
       "address": "0x1b6382dbdea11d97f24495c9a90b7c88469134a4",
       "name": "Axelar USDC",
@@ -3135,14 +3000,7 @@
       "symbol": "SYN",
       "chainId": 250
     },
-    {
-      "address": "0x44165fad0b7ea0d54d8856765d936d7026f9e2f2",
-      "name": "Beets Yearn Boosted Pool (WETH)",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-ETH.png",
-      "symbol": "bb-yv-WETH",
-      "chainId": 250
-    },
+
     {
       "address": "0x2a5062d22adcfaafbd5c541d4da82e4b450d4212",
       "name": "Keep3r",
@@ -3351,14 +3209,7 @@
       "symbol": "multiBAL",
       "chainId": 250
     },
-    {
-      "address": "0x55e0499d268858a5e804d7864dc2a6b4ef194c63",
-      "name": "Beets Reaper Granary Boosted FTM",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
-      "symbol": "bb-rf-grFTM",
-      "chainId": 250
-    },
+
     {
       "address": "0x49894fcc07233957c35462cfc3418ef0cc26129f",
       "name": "FANG Token",
@@ -3423,14 +3274,7 @@
       "symbol": "EXOD",
       "chainId": 250
     },
-    {
-      "address": "0x7cf76bccfa5d3340d42f08351552f5a59dc6089c",
-      "name": "Beets Yearn Boosted Pool (FRAX)",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-Frax.png",
-      "symbol": "bb-yv-FRAX",
-      "chainId": 250
-    },
+
     {
       "address": "0x2fcdcf0172376764c0462dde4165c6f08f920135",
       "name": "Truth",
