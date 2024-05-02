@@ -3434,6 +3434,14 @@
       "address": "0x511ab53f793683763e5a8829738301368a2411e3",
       "decimals": 18,
       "logoURI": "ipfs://QmcWohKeJmBPUZ9AGESLK7kPkwC4JUKFBLv1BQ4z1N4UnW"
+    },
+    {
+      "name": "Fren Pet",
+      "symbol": "Fren Pet",
+      "address": "0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105",
+      "logoURI": "https://assets.coingecko.com/coins/images/33022/large/token.png?1700274697",
+      "decimals": 18,
+      "chainId": 8453
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
