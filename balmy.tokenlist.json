@@ -3442,6 +3442,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33022/large/token.png?1700274697",
       "decimals": 18,
       "chainId": 8453
+    },
+    {
+      "name": "Boba Token",
+      "symbol": "Boba",
+      "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
+      "logoURI": "https://assets.coingecko.com/coins/images/20285/large/Boba-200x200---white.png",
+      "decimals": 18,
+      "chainId": 288
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
