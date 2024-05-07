@@ -1,3 +1,3 @@
 # token-list
 
-Mean Finance Token List
+Balmy's Token List

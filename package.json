@@ -1,17 +1,18 @@
 {
   "name": "token-list",
   "version": "1.0.0",
-  "description": "Mean Finance token list",
+  "description": "Balmy's Token List",
   "keywords": [
     "token",
     "list",
     "mean",
+    "balmy",
     "web3",
     "tokens"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mean-Finance/token-list.git"
+    "url": "git+https://github.com/Balmy-protocol/token-list.git"
   },
   "scripts": {
     "lint:check": "prettier --check './**'",
