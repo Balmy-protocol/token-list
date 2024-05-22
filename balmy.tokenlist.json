@@ -1,7 +1,7 @@
 {
-  "name": "Mean Finance List",
-  "logoURI": "ipfs://QmcYopE7kmcTq1sBczvTzzYqpe997g8yNC28q4WYdwxAiX",
-  "keywords": ["audited", "verified", "mean", "finance", "dca", "gasless", "meanfinance"],
+  "name": "Balmy List",
+  "logoURI": "ipfs://Qmd2GuuoqECL2wDpjWCKfSNUPYCCWGhrYVf8fjtyeyWWBV",
+  "keywords": ["audited", "verified", "mean", "finance", "balmy", "dca", "gasless", "meanfinance"],
   "tags": {
     "stablecoin": {
       "name": "Stablecoin",
@@ -1117,7 +1117,7 @@
       "symbol": "WMATIC",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png"
     },
     {
       "chainId": 137,
@@ -1125,7 +1125,7 @@
       "name": "The Graph",
       "symbol": "GRT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png"
     },
     {
       "chainId": 10,
@@ -1704,14 +1704,6 @@
       "chainId": 250
     },
     {
-      "address": "0xfa985463b7fa975d06cde703ec72efccf293c605",
-      "name": "Reaper wBTC Multi Crypt",
-      "decimals": 8,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-BTC.png",
-      "symbol": "rf-WBTC",
-      "chainId": 250
-    },
-    {
       "address": "0x82f0b8b456c1a451378467398982d4834b6829c1",
       "name": "Magic Internet Money",
       "decimals": 18,
@@ -1729,9 +1721,9 @@
     },
     {
       "address": "0xd7028092c830b5c8fce061af2e593413ebbc1fc1",
-      "name": "Stader sFTMX",
+      "name": "Beethoven sFTMx",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26586/large/Fantom_Light.png.png",
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/sFTMx-token2x.png",
       "symbol": "sFTMx",
       "chainId": 250
     },
@@ -1742,14 +1734,6 @@
       "decimals": 18,
       "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/dai-128.png",
       "symbol": "lzDAI",
-      "chainId": 250
-    },
-    {
-      "address": "0xd55c59da5872de866e39b1e3af2065330ea8acd6",
-      "name": "Reaper USDC Multi Crypt",
-      "decimals": 6,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDC%402x.png",
-      "symbol": "rf-USDC",
       "chainId": 250
     },
     {
@@ -1878,7 +1862,7 @@
       "address": "0xef4b763385838fffc708000f884026b8c0434275",
       "name": "XEN Crypto",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/27713/large/Xen.jpeg?1665453190",
+      "logoURI": "https://assets.coingecko.com/coins/images/27713/large/Xen.jpeg",
       "symbol": "fmXEN",
       "chainId": 250
     },
@@ -2085,14 +2069,6 @@
       "symbol": "XRLC",
       "chainId": 250
     },
-    {
-      "address": "0xaea55c0e84af6e5ef8c9b7042fb6ab682516214a",
-      "name": "Reaper fUSDT Multi Crypt",
-      "decimals": 6,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDT.png",
-      "symbol": "rf-fUSDT",
-      "chainId": 250
-    },
 
     {
       "address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
@@ -2159,14 +2135,6 @@
       "chainId": 250
     },
     {
-      "address": "0x4455aef4b5d8ffe3436184e8a1ec99607f9a4340",
-      "name": "Reaper USDC Crypt",
-      "decimals": 6,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USDC%402x.png",
-      "symbol": "rfUSDC",
-      "chainId": 250
-    },
-    {
       "address": "0xef0210eb96c7eb36af8ed1c20306462764935607",
       "name": "USDC yVault",
       "decimals": 6,
@@ -2183,22 +2151,6 @@
       "chainId": 250
     },
 
-    {
-      "address": "0xc052627bc73117d2cb3569f133419550156bdfa1",
-      "name": "Reaper wETH Multi Crypt",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-ETH.png",
-      "symbol": "rf-WETH",
-      "chainId": 250
-    },
-    {
-      "address": "0x152d62dccc2c7c7930c4483cc2a24fefd23c24c2",
-      "name": "Reaper WETH Crypt",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-ETH.png",
-      "symbol": "rfWETH",
-      "chainId": 250
-    },
     {
       "address": "0xc931f61b1534eb21d8c11b24f3f5ab2471d4ab50",
       "name": "Binance USD",
@@ -2293,14 +2245,6 @@
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
       "symbol": "lzWETH",
-      "chainId": 250
-    },
-    {
-      "address": "0xc3bf643799237588b7a6b407b3fc028dd4e037d2",
-      "name": "bb-yv-FTM",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
-      "symbol": "bb-yv-FTM",
       "chainId": 250
     },
     {
@@ -2474,14 +2418,6 @@
       "chainId": 250
     },
     {
-      "address": "0x5427f192137405e6a4143d1c3321359bab2dbd87",
-      "name": "Reaper DAI Crypt",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-DAI%402x.png",
-      "symbol": "rfDAI",
-      "chainId": 250
-    },
-    {
       "address": "0x3f9c449febb5e8cc452637ace9287dd806f49b86",
       "name": "Deliland",
       "decimals": 18,
@@ -2495,14 +2431,6 @@
       "decimals": 6,
       "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/luna-Wormhole.png",
       "symbol": "LUNA (Wormhole)",
-      "chainId": 250
-    },
-    {
-      "address": "0x963ffcd14d471e279245ee1570ad64ca78d8e67e",
-      "name": "Reaper wFTM Multi Crypt",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
-      "symbol": "rf-WFTM",
       "chainId": 250
     },
     {
@@ -2725,14 +2653,6 @@
       "chainId": 250
     },
     {
-      "address": "0xab30a4956c7d838234e24f1c3e50082c0607f35f",
-      "name": "sFTMX Granary Crypt",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
-      "symbol": "rf-grainSFTMX",
-      "chainId": 250
-    },
-    {
       "address": "0x74d1d2a851e339b8cb953716445be7e8abdf92f4",
       "name": "Staked TAROT",
       "decimals": 18,
@@ -2794,14 +2714,6 @@
       "decimals": 18,
       "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/dai-128.png",
       "symbol": "multiDAI",
-      "chainId": 250
-    },
-    {
-      "address": "0x660c6ec76bd83f53263681f83cbeb35042dcd1cc",
-      "name": "Reaper WBTC Crypt",
-      "decimals": 8,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-BTC.png",
-      "symbol": "rfWBTC",
       "chainId": 250
     },
     {
@@ -2935,14 +2847,6 @@
       "chainId": 250
     },
     {
-      "address": "0xe4a54b6a175cf3f6d7a5e8ab7544c3e6e364dbf9",
-      "name": "Reaper WFTM Crypt",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
-      "symbol": "rfWFTM",
-      "chainId": 250
-    },
-    {
       "address": "0x11223344d5b43ec0930af1236f4cf67bf7d81217",
       "name": "Quantum ",
       "decimals": 18,
@@ -3066,14 +2970,6 @@
       "chainId": 250
     },
     {
-      "address": "0x5ddb92a5340fd0ead3987d3661afcd6104c3b757",
-      "name": "bb-yv-USD",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-USD.png",
-      "symbol": "bb-yv-USD",
-      "chainId": 250
-    },
-    {
       "address": "0xfcef8a994209d6916eb2c86cdd2afd60aa6f54b1",
       "name": "Fresh BEETS",
       "decimals": 18,
@@ -3159,14 +3055,6 @@
       "decimals": 18,
       "logoURI": "https://i.postimg.cc/85bn615Z/logo192.png",
       "symbol": "KK",
-      "chainId": 250
-    },
-    {
-      "address": "0xc5b29d59d0b4717aa0dd8d11597d9fd3a05d86bb",
-      "name": "FTM Granary Vault",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-FTM.png",
-      "symbol": "rf-grain-FTM",
       "chainId": 250
     },
     {
@@ -3308,14 +3196,6 @@
       "chainId": 250
     },
     {
-      "address": "0x16e4399fa9ba6e58f12bf2d2bc35f8bde8a9a4ab",
-      "name": "Reaper DAI Multi Crypt",
-      "decimals": 18,
-      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/bb-yv-DAI%402x.png",
-      "symbol": "rf-DAI",
-      "chainId": 250
-    },
-    {
       "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
       "name": "Fantom",
       "decimals": 18,
@@ -3353,7 +3233,7 @@
       "name": "Aura",
       "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/thumb/logo.png"
     },
     {
       "chainId": 1,
@@ -3442,118 +3322,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33022/large/token.png",
       "decimals": 18,
       "chainId": 8453
-    },
-    {
-      "name": "Boba Token",
-      "symbol": "Boba",
-      "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
-      "logoURI": "https://assets.coingecko.com/coins/images/20285/large/Boba-200x200---white.png",
-      "decimals": 18,
-      "chainId": 288
-    },
-    {
-      "chainId": 34443,
-      "address": "0xfda619b6d20975be80a10332cd39b9a4b0faa8bb",
-      "name": "SwapMode",
-      "symbol": "SMD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36014/large/SMDPNG.png"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xcdd475325d6f564d27247d1dddbb0dac6fa0a5cf",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/35916/large/wrapped-bitcoin-wbtc-logo.png"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
-      "name": "Mode",
-      "symbol": "MODE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34979/large/MODE.jpg"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xcda802a5bffaa02b842651266969a5bba0c66d3e",
-      "name": "MoChadCoin",
-      "symbol": "MOCHAD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36867/large/photo_2024-04-07_21.22.11.png"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x6863fb62ed27a9ddf458105b507c15b5d741d62e",
-      "name": "KIM Token",
-      "symbol": "KIM",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37504/large/kim.jpg"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xf0f161fda2712db8b566946122a5af183995e2ed",
-      "name": "USDT",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35808/large/usdt_%281%29.png"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xd988097fb8612cc24eec14542bc03424c656005f",
-      "name": "USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/35809/large/usdc_%281%29.png"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x18470019bf0e94611f15852f7e93cf5d65bc34ca",
-      "name": "Ionic Protocol",
-      "symbol": "ION",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/36713/large/Ionic-icon-green.png"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x819d1daa794c1c46b841981b61cc978d95a17b8e",
-      "name": "Davos xyz USD",
-      "symbol": "DUSD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28775/large/dusd_logo_200x200.png"
-    },
-    {
-      "chainId": 34443,
-      "address": "0xdf474b7109b73b7d57926d43598d5934131136b2",
-      "name": "Ankr Network",
-      "symbol": "ANKR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4324/large/U85xTl2.png"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
-      "name": "Ankr Staked ETH",
-      "symbol": "ANKRETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13403/large/aETHc.png"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "WETH",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "ipfs://QmPustaS11SLRauY8okJp2UhsTPCfHKQBQYocvpojKoiv9"
-    },
-    {
-      "chainId": 34443,
-      "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
-      "name": "Renzo Restaked ETH",
-      "symbol": "ezETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/34753/large/Ezeth_logo_circle.png"
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
