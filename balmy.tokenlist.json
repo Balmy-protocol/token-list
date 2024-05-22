@@ -1117,7 +1117,7 @@
       "symbol": "WMATIC",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
     },
     {
       "chainId": 137,
@@ -1125,7 +1125,7 @@
       "name": "The Graph",
       "symbol": "GRT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png"
     },
     {
       "chainId": 10,
@@ -1879,7 +1879,7 @@
       "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
       "name": "old _DEI",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18779/small/DEI-logo-round-white-3.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/18779/large/DEI-logo-round-white-3.png",
       "symbol": "old_DEI",
       "chainId": 250
     },
@@ -2510,7 +2510,7 @@
       "address": "0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286",
       "name": "FantOHM",
       "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/20021/small/fhm.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/20021/large/fhm.png",
       "symbol": "FHM",
       "chainId": 250
     },
@@ -3233,7 +3233,7 @@
       "name": "Aura",
       "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25942/thumb/logo.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/25942/large/logo.png"
     },
     {
       "chainId": 1,
