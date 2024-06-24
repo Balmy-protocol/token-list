@@ -3212,6 +3212,14 @@
       "chainId": 250
     },
     {
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "GLMR",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png",
+      "symbol": "GLMR",
+      "chainId": 1284
+    },
+    {
       "chainId": 42161,
       "symbol": "GMD",
       "name": "GMD",
