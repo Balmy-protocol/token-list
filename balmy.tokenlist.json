@@ -3362,6 +3362,46 @@
       "logoURI": "ipfs://QmUhD1nRJz1UzKi1YzckoqQ9Q5dwsqQnB3c8rdAwYz3myc",
       "decimals": 18,
       "chainId": 42161
+    },
+    {
+      "name": "Verified USD",
+      "symbol": "USDV",
+      "address": "0x323665443cef804a3b5206103304bd4872ea4253",
+      "logoURI": "ipfs://QmQXpmGRjQgDjNWCwJzjYpzLcxaiiBDrN1j9z7JJj8qxwV",
+      "decimals": 18,
+      "chainId": 42161
+    },
+    {
+      "name": "Verified USD",
+      "symbol": "USDV",
+      "address": "0x323665443cef804a3b5206103304bd4872ea4253",
+      "logoURI": "ipfs://QmQXpmGRjQgDjNWCwJzjYpzLcxaiiBDrN1j9z7JJj8qxwV",
+      "decimals": 18,
+      "chainId": 56
+    },
+    {
+      "name": "Velodrome",
+      "symbol": "VELO",
+      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+      "logoURI": "ipfs://QmPwEEv5kwxUExDavLFAU5HGmF4ABHMZnyTS5PVxqUh4ZF",
+      "decimals": 18,
+      "chainId": 10
+    },
+    {
+      "name": "Threshold BTC",
+      "symbol": "tBTC",
+      "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+      "logoURI": "ipfs://QmSDedawRhWurQE8X7AS7xk3fumc3JUWhntZfYD2T3kdwf",
+      "decimals": 18,
+      "chainId": 10
+    },
+    {
+      "name": "Threshold BTC",
+      "symbol": "tBTC",
+      "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+      "logoURI": "ipfs://QmSDedawRhWurQE8X7AS7xk3fumc3JUWhntZfYD2T3kdwf",
+      "decimals": 18,
+      "chainId": 42161
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
