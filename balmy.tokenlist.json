@@ -3228,6 +3228,14 @@
       "chainId": 1284
     },
     {
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "RBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balmy-protocol/token-list/main/assets/chains/30/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg",
+      "symbol": "RBTC",
+      "chainId": 30
+    },
+    {
       "chainId": 42161,
       "symbol": "GMD",
       "name": "GMD",
