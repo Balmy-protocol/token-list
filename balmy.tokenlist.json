@@ -3410,6 +3410,30 @@
       "logoURI": "ipfs://QmSDedawRhWurQE8X7AS7xk3fumc3JUWhntZfYD2T3kdwf",
       "decimals": 18,
       "chainId": 42161
+    },
+    {
+      "name": "Ankr ETH",
+      "symbol": "ankrETH",
+      "address": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
+      "logoURI": "ipfs://QmbjfF8qQZePNJ3rqiwggpymZQF4zEF6j9LAvtVDRD8Lru",
+      "decimals": 18,
+      "chainId": 42161
+    },
+    {
+      "name": "Ankr ETH",
+      "symbol": "ankrETH",
+      "address": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
+      "logoURI": "ipfs://QmbjfF8qQZePNJ3rqiwggpymZQF4zEF6j9LAvtVDRD8Lru",
+      "decimals": 18,
+      "chainId": 10
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+      "logoURI": "ipfs://QmRZQP7SnxytRVRaTC7xmCC3tcrGZV3ZnUMQw8uySQGw13",
+      "decimals": 18,
+      "chainId": 42161
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
