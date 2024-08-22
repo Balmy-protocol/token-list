@@ -3434,6 +3434,30 @@
       "logoURI": "ipfs://QmRZQP7SnxytRVRaTC7xmCC3tcrGZV3ZnUMQw8uySQGw13",
       "decimals": 18,
       "chainId": 42161
+    },
+    {
+      "name": "Pax Gold",
+      "symbol": "PAXG",
+      "address": "0x553d3D295e0f695B9228246232eDF400ed3560B5",
+      "logoURI": "ipfs://Qmdha7w7j2QMdKf22z3vg9A6QYLEiLVBaQD6EUjoHGWtyb",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "Aavegotchi",
+      "symbol": "GHST",
+      "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+      "logoURI": "ipfs://QmbQVKTLwM9MnezKr2qQiNCSBFWSeYvtjJkLW9f2UXb7HJ",
+      "decimals": 18,
+      "chainId": 137
+    },
+    {
+      "name": "Coq Inu",
+      "symbol": "COQ",
+      "address": "0x420fca0121dc28039145009570975747295f2329",
+      "logoURI": "ipfs://QmQXUVozpW9EaLPQN3jQaonrtixf1A67XXPKQ37aUeUTVo",
+      "decimals": 18,
+      "chainId": 43114
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
