@@ -3458,6 +3458,22 @@
       "logoURI": "ipfs://QmQXUVozpW9EaLPQN3jQaonrtixf1A67XXPKQ37aUeUTVo",
       "decimals": 18,
       "chainId": 43114
+    },
+    {
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "logoURI": "https://assets.coingecko.com/coins/images/40143/large/cbbtc.webp",
+      "decimals": 8,
+      "chainId": 1
+    },
+    {
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "logoURI": "https://assets.coingecko.com/coins/images/40143/large/cbbtc.webp",
+      "decimals": 8,
+      "chainId": 8453
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
