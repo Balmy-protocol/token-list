@@ -3474,6 +3474,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/40143/large/cbbtc.webp",
       "decimals": 8,
       "chainId": 8453
+    },
+    {
+      "name": "StakeWise Staked GNO",
+      "symbol": "osGNO",
+      "address": "0xf490c80aae5f2616d3e3bda2483e30c4cb21d1a0",
+      "logoURI": "ipfs://QmdngGUyafhiLNwv4GZRrE2nCH5gEFjKZHdLSi1D5PBArC",
+      "decimals": 18,
+      "chainId": 100
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
