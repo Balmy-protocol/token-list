@@ -980,6 +980,15 @@
       "chainId": 42161
     },
     {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "tags": [],
+      "logoURI": "ipfs://QmP2rfXa8kZRbdk5i9CJtW85FJNJj8B4JdDccS3jyLBjDv",
+      "address": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
+      "chainId": 8453
+    },
+    {
       "name": "Rocket Pool Protocol",
       "symbol": "RPL",
       "decimals": 18,
