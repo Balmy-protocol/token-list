@@ -3491,6 +3491,14 @@
       "logoURI": "ipfs://QmdngGUyafhiLNwv4GZRrE2nCH5gEFjKZHdLSi1D5PBArC",
       "decimals": 18,
       "chainId": 100
+    },
+    {
+      "name": "Mode",
+      "symbol": "MODE",
+      "address": "0xdfc7c877a950e49d2610114102175a06c2e3167a",
+      "logoURI": "ipfs://QmYwG8Y5bLLqjM5asadsnrHAsKYnuKjHzg4uew4eqG5Ru5",
+      "decimals": 18,
+      "chainId": 34443
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
