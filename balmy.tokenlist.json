@@ -3507,6 +3507,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/25244/large/Optimism.png?1696524385",
       "decimals": 18,
       "chainId": 8453
+    },
+    {
+      "name": "Morpho Token",
+      "symbol": "MORPHO",
+      "address": "0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842",
+      "logoURI": "ipfs://QmUfoQeR87cbMzFqQtNWznBw39HKRJBkndYinHzzwEim5s",
+      "decimals": 18,
+      "chainId": 8453
     }
   ],
   "timestamp": "2022-11-18T17:20:37+00:00",
