@@ -476,6 +476,15 @@
       "chainId": 8453
     },
     {
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "tags": [],
+      "logoURI": "ipfs://QmTiGZB1suSfu3GprUby98sUFxV4h2AEhvUWt5QQva6KEf/comp.png",
+      "address": "0x354a6da3fcde098f8389cad84b0182725c6c91de",
+      "chainId": 42161
+    },
+    {
       "name": "Chainlink Token",
       "symbol": "LINK",
       "decimals": 18,
